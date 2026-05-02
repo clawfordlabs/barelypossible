@@ -28,7 +28,7 @@
     if (started) return;
     started = true;
 
-    window.barelyPossibleTrack("signup_flow_started", {
+    window.posthog.capture("signup_flow_started", {
       page_path: window.location.pathname,
       source_path: fieldValue('input[name="source_path"]'),
       feed_source: fieldValue('input[name="feed_source"]'),
@@ -40,7 +40,7 @@
   form.addEventListener("submit", function () {
     var requestedTopics = fieldValue('textarea[name="requested_topics"]');
 
-    window.barelyPossibleTrack("signup_flow_submitted", {
+    window.posthog.capture("signup_flow_submitted", {
       page_path: window.location.pathname,
       source_path: fieldValue('input[name="source_path"]'),
       feed_source: fieldValue('input[name="feed_source"]'),
