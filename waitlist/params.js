@@ -16,5 +16,36 @@
     }
     input.value = value;
   });
-})();
 
+  var started = false;
+
+  function fieldValue(selector) {
+    var node = form.querySelector(selector);
+    return node ? node.value : "";
+  }
+
+  function trackSignupStart() {
+    if (started) return;
+    started = true;
+
+    window.barelyPossibleTrack("signup_flow_started", {
+      page_path: window.location.pathname,
+      source_path: fieldValue('input[name="source_path"]'),
+      feed_source: fieldValue('input[name="feed_source"]'),
+    });
+  }
+
+  form.addEventListener("focusin", trackSignupStart);
+  form.addEventListener("input", trackSignupStart);
+  form.addEventListener("submit", function () {
+    var requestedTopics = fieldValue('textarea[name="requested_topics"]');
+
+    window.barelyPossibleTrack("signup_flow_submitted", {
+      page_path: window.location.pathname,
+      source_path: fieldValue('input[name="source_path"]'),
+      feed_source: fieldValue('input[name="feed_source"]'),
+      preferred_surface: fieldValue('select[name="preferred_surface"]'),
+      requested_topics_present: !!requestedTopics.trim(),
+    });
+  });
+})();
