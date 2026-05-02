@@ -25,3 +25,10 @@ PORT=8090 ./scripts/serve
 
 This repo is designed to work with GitHub Pages without a build step. Serve from
 the repository root.
+
+## PostHog
+
+Analytics is wired through [`/posthog.js`](./posthog.js). Set the public PostHog
+project key in that file and keep the host pointed at your PostHog region
+(`https://us.i.posthog.com` for US cloud, `https://eu.i.posthog.com` for EU
+cloud).
