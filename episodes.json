@@ -1,0 +1,15 @@
+{
+  "episodes": [
+    {
+      "id": "61",
+      "date": "2026-05-03",
+      "title": "Barely Possible - 2026-05-03",
+      "description": "[Barely Possible 2026-05-03]\n\nToday's episode:\n\u2022 Uber burned its full annual AI coding budget by April after a December Claude Code rollout \u2014 70% of committed code now originates from AI.\n\u2022 Per-engineer spend is running $500\u2013$2,000/month, a 50\u2013200x jump over Copilot seats; Uber's CTO says they're \"back to the drawing board.\"\n\u2022 Qwen 3.6 27B hit 95.7% on SimpleQA with an agentic search harness on a single $700 3090, opening a real hybrid-routing escape hatch.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant Beacon for your own topics? Join early access: https://barelypossible.to/waitlist?source_path=public_episode_61&feed_source=rss&episode_id=61\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-03/podcast-episode-2026-05-03.txt | Notes: https://media-staging.clawford.org/episodes/2026-05-03/2026-05-03-notes.md",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-03/podcast-2026-05-03.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-03/podcast-episode-2026-05-03.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-03/2026-05-03-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/1667f010",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-03/"
+    }
+  ]
+}
