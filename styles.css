@@ -68,6 +68,9 @@ header {
 }
 
 .brand {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
   color: var(--ink);
   font-family: "Instrument Serif", Georgia, serif;
   font-size: 28px;
@@ -84,10 +87,13 @@ header {
 }
 
 .nav-links a {
+  display: inline-flex;
+  align-items: center;
   color: var(--muted);
   text-decoration: none;
   border: 1px solid transparent;
   border-radius: 999px;
+  min-height: 44px;
   padding: 7px 10px;
 }
 
@@ -273,6 +279,8 @@ h1 {
 }
 
 .episode h3 a {
+  display: inline-block;
+  min-height: 44px;
   color: var(--ink);
   text-decoration: none;
 }
@@ -372,6 +380,12 @@ footer p {
   overflow-wrap: anywhere;
 }
 
+footer a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
 @media (max-width: 640px) {
   .wrap {
     width: min(390px, calc(100% - 32px));
@@ -435,7 +449,7 @@ footer p {
 
   .button {
     width: 100%;
-    min-height: 42px;
+    min-height: 44px;
     padding: 0 12px;
   }
 
