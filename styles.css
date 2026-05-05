@@ -385,7 +385,7 @@ footer p {
   }
 
   .hero {
-    padding-top: 34px;
+    padding: 30px 0 26px;
   }
 
   .hero-copy,
@@ -405,20 +405,31 @@ footer p {
 
   .actions {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+    margin-top: 24px;
   }
 
   .button {
     width: 100%;
+    min-height: 42px;
+    padding: 0 12px;
+  }
+
+  .button.primary {
+    grid-column: 1 / -1;
   }
 
   .hero-grid,
   .episode-list {
     grid-template-columns: 1fr;
+    gap: 28px;
   }
 
   .hero-art {
+    width: min(290px, 100%);
     transform: none;
+    justify-self: center;
   }
 
   .ticker-grid {
