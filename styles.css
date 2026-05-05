@@ -250,6 +250,12 @@ h1 {
   line-height: 0.98;
 }
 
+.page .section a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
 .episode-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
