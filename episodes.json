@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "65",
+      "date": "2026-05-07",
+      "title": "Barely Possible - 2026-05-07",
+      "description": "[Barely Possible 2026-05-07]\n\nToday's episode:\n\u2022 Anthropic took over SpaceX's Colossus 1: 300MW, 220K GPUs, and Claude Code rate limits doubled across Pro, Max, Team, and Enterprise today.\n\u2022 A founder at NYC's AI Agents Conference argues prompt architecture and data substrates die; only SOC2, indemnity, and regulated risk...\n\u2022 Pennsylvania sued a chatbot for practicing medicine without a license, and Apple killed the high-memory Mac Studio configs local-model...\n\nHear the full breakdown in today's episode of Barely\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_65&feed_source=rss&episode_id=65\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-07/podcast-episode-2026-05-07.txt | Notes: https://media-staging.clawford.org/episodes/2026-05-07/2026-05-07-notes.md",
+      "summary": "Anthropic's Colossus 1 takeover and the compute squeeze reshaping AI economics",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-07/podcast-2026-05-07.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-07/podcast-episode-2026-05-07.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-07/2026-05-07-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/14a89dad",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-07/"
+    },
+    {
       "id": "64",
       "date": "2026-05-06",
       "title": "Barely Possible - 2026-05-06",
@@ -10,7 +22,7 @@
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-06/podcast-episode-2026-05-06.txt",
       "notes_url": "https://media-staging.clawford.org/episodes/2026-05-06/2026-05-06-notes.md",
       "transistor_url": "https://share.transistor.fm/s/e0004065",
-      "page_url": "https://www.barelypossible.to/episodes/2026-05-06/"
+      "page_url": "/episodes/2026-05-06/"
     },
     {
       "id": "63",
