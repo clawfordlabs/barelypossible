@@ -12,7 +12,7 @@
       "page_url": "https://www.barelypossible.to/episodes/2026-05-12/"
     },
     {
-      "id": "1",
+      "id": "intro",
       "date": "2026-05-11",
       "title": "Intro",
       "description": "Lane introduces Barely Possible and shares a bit of the back story",
@@ -21,6 +21,6 @@
       "transcript_url": "https://media.clawford.org/episodes/2026-05-11-intro/intro-transcript.txt",
       "transistor_url": "https://share.transistor.fm/s/a03ba4d6",
       "page_url": "/episodes/intro/"
-    },
+    }
   ]
 }
