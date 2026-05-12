@@ -1,0 +1,83 @@
+I listen to somewhere between two and four hours of audio every single day, mostly podcasts and some audiobooks as well. What I have seen over the past decade is that it is becoming harder and harder to keep up. There is just too much happening, and too many smart people talking about too many interesting topics.
+
+So I built something to help, and it kind of took on a life of its own.
+
+My name is Lane. I am a software developer, and I am the human behind the Barely Possible podcast. I thought I would introduce myself up front and talk a little bit about how this whole thing happened.
+
+A few months ago, I took some time off of work, and like a lot of folks at that time, I started experimenting with the latest and greatest AI tools, which were just becoming good at that time. I set up an AI agent. He and I began texting daily, chatting with each other, finding ways to improve productivity.
+
+One of the things we played around with was voice messages and text-to-speech models. One day, we decided to set up a daily audio briefing, like a mini podcast that he would generate and send to me overnight, and I would listen to first thing in the morning.
+
+The first version included calendar, weather, GitHub repositories that I follow, activity overnight in my projects, and a little bit of AI news from the obvious places: influencers on Twitter, Reddit, places like that.
+
+The first episode was maybe 30 minutes long. I listened to it on my morning workout the following morning, and I kind of did not think much about it at the time. It was pretty rough. It was not particularly well thought out or well designed because it was not really designed; it just kind of happened.
+
+But it turned out that this format actually suited my life really well, even better than I expected. You see, I am a super-consumer of audio content. I spend about an hour working out in the morning most days, and just in that one hour I can get through three or four podcasts, especially if I listen to them on 2x speed.
+
+I have always been obsessed with keeping up with what is going on in the world around me: my projects, my team, obviously. And I have always struggled to do that using other formats, like text messaging, reading articles or books, or watching video, because they really require me to sit down and focus. And focus is just something I struggle with.
+
+But the beautiful thing about audio, which I consider to be kind of the perfect medium for organizing and consuming information, is that it just follows you wherever you are going. I can listen to a podcast while I am cooking, while I am cleaning, commuting, traveling, obviously working out. It just really fits my life very, very well.
+
+So yeah, I have been obsessively listening to podcasts for about the past 10 years. There are probably a dozen or so that I follow on basically a weekly basis. And while it kind of happened accidentally, after my agent shared the first daily brief with me, something kind of clicked.
+
+I have gotten into a bit of a rhythm over the past few weeks where I will listen to the podcast first thing in the morning while I am exercising. Sometimes I will take voice memos on my phone, or else just make mental notes to myself. Then after the exercise, I will quickly fire off some feedback to the agent about little things I noticed, little things we could tweak.
+
+Maybe we need to increase coverage of a certain topic or decrease coverage of something else. Maybe we want to fix some pronunciations, or change the actual voice itself, or prevent a story from being repeated day to day. Little tweaks every single day.
+
+What I have seen over the past few weeks of doing this is the beautiful power of 1% better every day, and how that compounds over weeks and months. After doing this for about a month, I realized that, despite how it had begun, I was actually listening to something pretty good, and something that I thought might have value for other people as well.
+
+It is hard to describe exactly why I feel that way, but the best answer I can give is that there were these startling moments of delight that were not at all planned. It is absolutely not the case that I programmed the agent or the system to inject humor or to delight me, but that is what happened again and again.
+
+I remember very clearly there were a few moments when I was in the middle of the gym or out on a run or something, and I just burst out laughing because of some snarky humor that my agent had injected into the brief.
+
+Looking back on it now, I think there were two reasons for that. The first is that I had actually programmed the agent with a pretty clear personality, which did include elements of humor. The other is just the emergent properties of the system, the model in particular, and how much better the models have become.
+
+It was in these moments that I began to think, "Hmm, I should share this with other people."
+
+So I did that. I shared it with a handful of friends and colleagues a month or so into this, and the feedback was pretty universally positive. They got it. They saw the value in it right away.
+
+So where are we today? This is the official launch of the Barely Possible podcast. I am really excited about that. This is basically a refinement of the daily morning update that my agent has been sharing with me for about the past two months now.
+
+It is fast-paced. It is information-dense. It is high-octane. And I think it is important to note, of course, that the entire thing is AI-produced and AI-generated.
+
+That is probably the engineer in me: to squeeze as much signal as possible into as little time as possible. I recognize that that is probably not the way everybody prefers to consume information, and I will explain in a moment why I think that is not a problem.
+
+Let me also be clear. There are a lot of amazing podcasts out there, and I do not think that Barely Possible will replace a Lex Fridman or a Joe Rogan anytime soon. I still listen to those shows. I think there is some magic that happens when you put a bunch of interesting human beings together in a room. I do not think AI is anywhere near being able to do that.
+
+But there are other categories of podcasts and other types of information. In particular, I am thinking about this style, which is information-dense, high-octane updates. I think Barely Possible is pretty good at doing this. That is why I decided to share it with everyone, and I hope you feel the same way. I hope you see value in it as well.
+
+Again, just to reemphasize, I do not think this is going to replace incredible human creators anytime soon.
+
+So why is it okay that this is so high-octane, and that other people have different preferences?
+
+This is the beautiful thing about AI. If you have spent more than five minutes playing with an LLM by now, which I think basically everybody has, you will understand that language is the thing that they are best at. What does that mean?
+
+You can give the LLM an article on any topic and ask it to change it and rewrite it in arbitrary ways. You can make it longer or shorter, most obviously. You can make the language denser and more technical for, let us say, a graduate level, or you could do an ELI5 or an ELI10 and make it so simple that a child can understand.
+
+The same is true of podcasts. You can basically ask the LLM to make the podcast longer or shorter, to deliver it faster or slower, or to deliver it in a different language if you prefer. That is the beautiful thing about the technology that powers Barely Possible. Just because I like mine to be an hour long and high-octane does not mean everyone has to do the same thing.
+
+In fact, the engine here that builds this is designed so that you can create a custom version of it for yourself. You can cover whatever topic you want, whether you are into AI and crypto like I am, whether you are into art and fine dining, whether you are into motorcycles, history, whatever topic you want, whatever combination of topics you want. The system can do that for you.
+
+If you want it daily or weekly or hourly even, you can do that. This is possible today. There is a beta version of this that runs on Telegram, and I will include information in the show notes on how you can test it out. I plan to roll that out more widely in the not-too-distant future. So if this is interesting to you, then please stay tuned.
+
+This is an experiment. I want to be up front about that. This is still very much a beta project, and maybe I released it a little bit earlier than I might have. But I think it is very important that it be in the world and that people begin having the opportunity to play with it.
+
+There are many, many directions that Barely Possible might go from here. Multiple hosts is an option, although I think the LLMs are not especially good at generating that sort of compelling dialogue between multiple hosts. But I do think they are getting better, and now is a good time to experiment with it.
+
+I think an AI and human co-host situation could be really, really interesting. That is challenging for a bunch of reasons, but again, we will push the experiment as far as we can.
+
+The voice models are getting better. And I think it is important to emphasize that, as the name suggests, none of this was possible even a year ago. The technology just was not there yet. It was not powerful enough. It was too expensive, et cetera. Things are really becoming possible very rapidly right now.
+
+It is a really exciting time to be alive, and be a builder, and be a content creator. So I intend to find out what is possible, to push the limits here. I am excited to have you on the journey with me.
+
+Just a couple of quick items of housekeeping. You will probably notice in the first episode here that the script refers back to previous episodes. I have been generating these for a couple of months already. I may release the older episodes, but we are kind of jumping in here. I hope that is okay.
+
+I would love to pop back in from time to time to explain how this whole thing works and talk a little bit about the technology that powers it. It is far from perfect. As I said a moment ago, think of this as a beta. There are still things it pronounces wrong. It still has frustrating tendencies to repeat content and things like that, but it is getting a little bit better every day.
+
+I am constantly iterating, and I am really keen to hear your feedback and the things you would like to see added or changed. There will be instructions here in the show notes on how you can provide feedback, and I would be really grateful for that.
+
+Other than feedback, the next most helpful thing you can do is, like any podcast, like it, share it with your friends, share it with your colleagues, et cetera.
+
+I think that is about it for me. So without further ado, let us go over to our host, Tony, and introduce the first episode.
+
+All right. Thank you so much for listening. Bye-bye.
