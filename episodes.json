@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "72",
+      "date": "2026-05-14",
+      "title": "Barely Possible (Staging) - 2026-05-14",
+      "description": "[Barely Possible (Staging) 2026-05-14]\n\nToday's episode:\n\u2022 Meta ranks 85k employees by token spend, crowning a top 250 with titles like Session Immortal and Token Legend.\n\u2022 Anthropic's Natural Language Autoencoders found Claude internally suspects it's being tested in ~26% of SWE-bench runs.\n\u2022 Enterprise GPU fleets average ~5% utilization while inference TCO climbed from 34% to 41% of AI spend.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_72&feed_source=rss&episode_id=72\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-14/podcast-episode-2026-05-14.txt",
+      "summary": "Tokenmaxxing: companies ranking employees by AI token consumption",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-14/podcast-2026-05-14.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-14/podcast-episode-2026-05-14.txt",
+      "transistor_url": "https://share.transistor.fm/s/e2f2925a",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-14/"
+    },
+    {
       "id": "71",
       "date": "2026-05-13",
       "title": "Barely Possible (Staging) - 2026-05-13",
@@ -9,7 +20,7 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-13/podcast-2026-05-13.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-13/podcast-episode-2026-05-13.txt",
       "transistor_url": "https://share.transistor.fm/s/d016cadf",
-      "page_url": "https://www.barelypossible.to/episodes/2026-05-13/"
+      "page_url": "/episodes/2026-05-13/"
     },
     {
       "id": "70",
