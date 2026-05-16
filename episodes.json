@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "76",
+      "date": "2026-05-17",
+      "title": "Barely Possible - 2026-05-17",
+      "description": "[Barely Possible 2026-05-17]\n\nToday's episode:\n\u2022 Mistral's founder told French Parliament his engineers write zero lines of code \u2014 productivity hits 10\u201320x solo but drops sharply in teams.\n\u2022 Enterprise multi-agent deployments in production are mostly strict pipelines with human approval gates, not autonomous agents \u2014...\n\u2022 An academic study found prompt injection is a structural feature of token-based context windows, not a fixable bug, with no clear...\n\nHear how these three threads connect in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_76&feed_source=rss&episode_id=76\n\nTranscript: https://media.clawford.org/episodes/2026-05-17/podcast-episode-2026-05-17.txt",
+      "summary": "Mistral founder: engineers now manage AI agents instead of writing code",
+      "audio_url": "https://media.clawford.org/episodes/2026-05-17/podcast-2026-05-17.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-05-17/podcast-episode-2026-05-17.txt",
+      "transistor_url": "https://share.transistor.fm/s/d99d5996",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-17/"
+    },
+    {
       "id": "75",
       "date": "2026-05-16",
       "title": "Barely Possible - 2026-05-16",
@@ -9,7 +20,7 @@
       "audio_url": "https://media.clawford.org/episodes/2026-05-16/podcast-2026-05-16.mp3",
       "transcript_url": "https://media.clawford.org/episodes/2026-05-16/podcast-episode-2026-05-16.txt",
       "transistor_url": "https://share.transistor.fm/s/3dbf6b40",
-      "page_url": "https://www.barelypossible.to/episodes/2026-05-16/"
+      "page_url": "/episodes/2026-05-16/"
     },
     {
       "id": "74",
