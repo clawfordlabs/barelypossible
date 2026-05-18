@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "76",
+      "date": "2026-05-19",
+      "title": "Barely Possible (Staging) - 2026-05-19",
+      "description": "[Barely Possible (Staging) 2026-05-19]\n\nToday's episode:\n\u2022 GPT-5.5 ran autonomously for 150+ hours iterating on protein folding models, plateauing around run 80 before breaking past its own ceiling.\n\u2022 Ken Griffin flipped from Davos skeptic to \"AI is real\" at Stanford, citing 15-25% productivity gains and PhD-level work done in hours.\n\u2022 Eric Schmidt got booed at Arizona; days earlier Tavistock's Gloria Caulfield was drowned out at UCF mid-speech on the AI revolution.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_76&feed_source=rss&episode_id=76\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-19/podcast-episode-2026-05-19.txt",
+      "summary": "GPT-5.5's 150-hour autonomous protein-folding research run breaching the science",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-19/podcast-2026-05-19.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-19/podcast-episode-2026-05-19.txt",
+      "transistor_url": "https://share.transistor.fm/s/d94d6882",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-19/"
+    },
+    {
       "id": "75",
       "date": "2026-05-18",
       "title": "Barely Possible (Staging) - 2026-05-18",
@@ -9,7 +20,7 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-18/podcast-2026-05-18.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-18/podcast-episode-2026-05-18.txt",
       "transistor_url": "https://share.transistor.fm/s/139daaaa",
-      "page_url": "https://www.barelypossible.to/episodes/2026-05-18/"
+      "page_url": "/episodes/2026-05-18/"
     },
     {
       "id": "74",
