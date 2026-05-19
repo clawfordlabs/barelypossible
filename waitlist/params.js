@@ -3,6 +3,33 @@
   if (!form) return;
 
   var params = new URLSearchParams(window.location.search);
+  var waitlistStatus = params.get("waitlist_status");
+  var confirmation = document.querySelector("[data-waitlist-confirmation]");
+  var statusMessage = document.querySelector("[data-waitlist-status-message]");
+
+  function showWaitlistStatus(message, isError) {
+    if (!confirmation || !statusMessage) return;
+
+    statusMessage.textContent = message;
+    confirmation.hidden = false;
+    confirmation.classList.add(isError ? "is-error" : "is-success");
+    form.hidden = true;
+  }
+
+  if (waitlistStatus === "joined") {
+    showWaitlistStatus("You're on the list. We'll follow up when private briefings are ready.", false);
+
+    if (window.posthog) {
+      window.posthog.capture("signup_flow_joined", {
+        page_path: window.location.pathname,
+        source_path: params.get("source_path") || "",
+        feed_source: params.get("feed_source") || "",
+      });
+    }
+  } else if (waitlistStatus === "error") {
+    showWaitlistStatus(params.get("waitlist_error") || "Something went wrong. Please try again.", true);
+  }
+
   ["source_path", "feed_source", "episode_id", "attribution_token"].forEach(function (name) {
     var value = params.get(name);
     if (!value) return;
