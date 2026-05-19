@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "77",
+      "date": "2026-05-20",
+      "title": "Barely Possible (Staging) - 2026-05-20",
+      "description": "[Barely Possible (Staging) 2026-05-20]\n\nToday's episode:\n\u2022 Andrej Karpathy joined Anthropic, posting he wants to \"get back to R&D\" \u2014 one day after reports of Anthropic's $30B ARR passing OpenAI's.\n\u2022 Gemini 3.5 Flash tripled in price to $1.50 in / $9 out per million tokens, killing the cheap-tier playbook for agent builders overnight.\n\u2022 Google claims Antigravity 2.0 ran 96 agents for 12 hours under $1K in tokens to build an OS that boots Doom \u2014 the math has skeptics.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_77&feed_source=rss&episode_id=77\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-20/podcast-episode-2026-05-20.txt | Notes: https://media-staging.clawford.org/episodes/2026-05-20/2026-05-20-notes.md",
+      "summary": "Karpathy joins Anthropic, signaling R&D gravity shift",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-20/podcast-2026-05-20.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-20/podcast-episode-2026-05-20.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-20/2026-05-20-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/5afa3e1d",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-20/"
+    },
+    {
       "id": "76",
       "date": "2026-05-19",
       "title": "Barely Possible (Staging) - 2026-05-19",
@@ -9,7 +21,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-19/podcast-2026-05-19.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-19/podcast-episode-2026-05-19.txt",
       "transistor_url": "https://share.transistor.fm/s/d94d6882",
-      "page_url": "https://www.barelypossible.to/episodes/2026-05-19/"
+      "page_url": "/episodes/2026-05-19/",
+      "notes_url": ""
     },
     {
       "id": "75",
@@ -20,7 +33,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-18/podcast-2026-05-18.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-18/podcast-episode-2026-05-18.txt",
       "transistor_url": "https://share.transistor.fm/s/139daaaa",
-      "page_url": "/episodes/2026-05-18/"
+      "page_url": "/episodes/2026-05-18/",
+      "notes_url": ""
     },
     {
       "id": "74",
@@ -31,7 +45,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-17/podcast-2026-05-17.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-17/podcast-episode-2026-05-17.txt",
       "transistor_url": "https://share.transistor.fm/s/79b75b53",
-      "page_url": "/episodes/2026-05-17/"
+      "page_url": "/episodes/2026-05-17/",
+      "notes_url": ""
     },
     {
       "id": "73",
@@ -42,7 +57,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-16/podcast-2026-05-16.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-16/podcast-episode-2026-05-16.txt",
       "transistor_url": "https://share.transistor.fm/s/43db5e9c",
-      "page_url": "/episodes/2026-05-16/"
+      "page_url": "/episodes/2026-05-16/",
+      "notes_url": ""
     },
     {
       "id": "72",
@@ -53,7 +69,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-14/podcast-2026-05-14.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-14/podcast-episode-2026-05-14.txt",
       "transistor_url": "https://share.transistor.fm/s/e2f2925a",
-      "page_url": "/episodes/2026-05-14/"
+      "page_url": "/episodes/2026-05-14/",
+      "notes_url": ""
     },
     {
       "id": "71",
@@ -64,7 +81,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-13/podcast-2026-05-13.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-13/podcast-episode-2026-05-13.txt",
       "transistor_url": "https://share.transistor.fm/s/d016cadf",
-      "page_url": "/episodes/2026-05-13/"
+      "page_url": "/episodes/2026-05-13/",
+      "notes_url": ""
     },
     {
       "id": "70",
@@ -75,7 +93,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-12/podcast-2026-05-12.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-12/podcast-episode-2026-05-12.txt",
       "transistor_url": "https://share.transistor.fm/s/f76d5172",
-      "page_url": "/episodes/2026-05-12/"
+      "page_url": "/episodes/2026-05-12/",
+      "notes_url": ""
     },
     {
       "id": "69",
@@ -86,7 +105,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-11/podcast-2026-05-11.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-11/podcast-episode-2026-05-11.txt",
       "transistor_url": "https://share.transistor.fm/s/eca60990",
-      "page_url": "/episodes/2026-05-11/"
+      "page_url": "/episodes/2026-05-11/",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-11/2026-05-11-notes.md"
     },
     {
       "id": "69",
@@ -97,7 +117,8 @@
       "audio_url": "https://media.clawford.org/episodes/2026-05-10/podcast-2026-05-10.mp3",
       "transcript_url": "https://media.clawford.org/episodes/2026-05-10/podcast-episode-2026-05-10.txt",
       "transistor_url": "https://share.transistor.fm/s/7359d7b2",
-      "page_url": "/episodes/2026-05-10/"
+      "page_url": "/episodes/2026-05-10/",
+      "notes_url": ""
     },
     {
       "id": "67",
@@ -108,7 +129,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-09/podcast-2026-05-09.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-09/podcast-episode-2026-05-09.txt",
       "transistor_url": "https://share.transistor.fm/s/9d5f952c",
-      "page_url": "/episodes/2026-05-09/"
+      "page_url": "/episodes/2026-05-09/",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-09/2026-05-09-notes.md"
     },
     {
       "id": "66",
@@ -119,7 +141,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-08/podcast-2026-05-08.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-08/podcast-episode-2026-05-08.txt",
       "transistor_url": "https://share.transistor.fm/s/0fceb4f1",
-      "page_url": "/episodes/2026-05-08/"
+      "page_url": "/episodes/2026-05-08/",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-08/2026-05-08-notes.md"
     },
     {
       "id": "65",
@@ -130,7 +153,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-07/podcast-2026-05-07.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-07/podcast-episode-2026-05-07.txt",
       "transistor_url": "https://share.transistor.fm/s/14a89dad",
-      "page_url": "/episodes/2026-05-07/"
+      "page_url": "/episodes/2026-05-07/",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-07/2026-05-07-notes.md"
     },
     {
       "id": "64",
@@ -141,7 +165,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-06/podcast-2026-05-06.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-06/podcast-episode-2026-05-06.txt",
       "transistor_url": "https://share.transistor.fm/s/e0004065",
-      "page_url": "/episodes/2026-05-06/"
+      "page_url": "/episodes/2026-05-06/",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-06/2026-05-06-notes.md"
     },
     {
       "id": "63",
@@ -152,7 +177,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-05/podcast-2026-05-05.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-05/podcast-episode-2026-05-05.txt",
       "transistor_url": "https://share.transistor.fm/s/c8a5f24f",
-      "page_url": "/episodes/2026-05-05/"
+      "page_url": "/episodes/2026-05-05/",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-05/2026-05-05-notes.md"
     },
     {
       "id": "62",
@@ -163,7 +189,8 @@
       "audio_url": "https://media-staging.clawford.org/episodes/2026-05-04/podcast-2026-05-04.mp3",
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-04/podcast-episode-2026-05-04.txt",
       "transistor_url": "https://share.transistor.fm/s/a26be052",
-      "page_url": "/episodes/2026-05-04/"
+      "page_url": "/episodes/2026-05-04/",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-04/2026-05-04-notes.md"
     },
     {
       "id": "61",
@@ -174,7 +201,8 @@
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-03/podcast-episode-2026-05-03.txt",
       "transistor_url": "https://share.transistor.fm/s/1667f010",
       "page_url": "/episodes/2026-05-03/",
-      "summary": ""
+      "summary": "",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-03/2026-05-03-notes.md"
     },
     {
       "id": "20260502",
@@ -185,7 +213,8 @@
       "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-02/podcast-episode-2026-05-02.txt",
       "transistor_url": "",
       "page_url": "/episodes/2026-05-02/",
-      "summary": "Latest public briefing. This page is ready for the generated transcript and notes links."
+      "summary": "Latest public briefing. This page is ready for the generated transcript and notes links.",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-02/2026-05-02-notes.md"
     }
   ]
 }
