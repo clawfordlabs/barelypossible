@@ -25,7 +25,14 @@
           <h1>Join Early Access</h1>
           <p class="lede">Barely Possible is the public briefing. Join early access for a private podcast that follows your own topics.</p>
 
-          <form class="form" method="post" action="https://beacon-staging-inbound-api.onrender.com/waitlist">
+          <div class="waitlist-confirmation" data-waitlist-confirmation hidden>
+            <p class="meta">Request received</p>
+            <h2>You're on the list.</h2>
+            <p data-waitlist-status-message>We'll follow up when private briefings are ready.</p>
+            <a class="button ghost" href="/">Back to the show</a>
+          </div>
+
+          <form class="form" method="post" action="https://beacon-inbound-api.onrender.com/waitlist">
             <input type="hidden" name="source_path" value="barelypossible_waitlist">
             <input type="hidden" name="feed_source" value="site">
 
