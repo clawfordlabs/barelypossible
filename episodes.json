@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "79",
+      "date": "2026-05-20",
+      "title": "Barely Possible - 2026-05-20",
+      "description": "[Barely Possible 2026-05-20]\n\nToday's episode:\n\u2022 Andrej Karpathy joins Anthropic for foundational R&D \u2014 explicitly not a policy role, he said he wants to \"get back to R&D.\"\n\u2022 Demis Hassabis compressed his AGI timeline a third time in two years, now calling it \"a few years away\" at Google I/O.\n\u2022 Gemini 3.5 Flash is ~30x pricier than Gemini 1.5 Flash \u2014 builders who modeled costs on the \"cheap tier\" need to recheck their math.\n\nCatch the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_79&feed_source=rss&episode_id=79\n\nTranscript: https://media.clawford.org/episodes/2026-05-20/podcast-episode-2026-05-20.txt",
+      "summary": "Andrej Karpathy joins Anthropic for foundational R&D, explicitly not a policy role.",
+      "audio_url": "https://media.clawford.org/episodes/2026-05-20/podcast-2026-05-20.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-05-20/podcast-episode-2026-05-20.txt",
+      "transistor_url": "https://share.transistor.fm/s/4d987244",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-20/"
+    },
+    {
       "id": "78",
       "date": "2026-05-19",
       "title": "Barely Possible - 2026-05-19",
@@ -9,7 +20,7 @@
       "audio_url": "https://media.clawford.org/episodes/2026-05-19/podcast-2026-05-19.mp3",
       "transcript_url": "https://media.clawford.org/episodes/2026-05-19/podcast-episode-2026-05-19.txt",
       "transistor_url": "https://share.transistor.fm/s/47570f62",
-      "page_url": "https://www.barelypossible.to/episodes/2026-05-19/"
+      "page_url": "/episodes/2026-05-19/"
     },
     {
       "id": "77",
