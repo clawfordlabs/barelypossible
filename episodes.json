@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "80",
+      "date": "2026-05-23",
+      "title": "Barely Possible (Staging) - 2026-05-23",
+      "description": "[Barely Possible (Staging) 2026-05-23]\n\nToday's episode:\n\u2022 DeepSeek dropped a permanent 75% price cut post-promotion, undercutting Opus 4.7, GPT-5.5, and Gemini 3.5 Flash as frontier prices climb.\n\u2022 MIT tracked 300 enterprise AI deployments: 95% dissolved before production. Only bounded tasks with human checkpoints survived.\n\u2022 Anthropic projects its first profitable quarter at $10.9B in Q2 revenue, while Microsoft killed internal Claude licenses over runaway...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_80&feed_source=rss&episode_id=80\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-23/podcast-episode-2026-05-23.txt | Notes: https://media-staging.clawford.org/episodes/2026-05-23/2026-05-23-notes.md",
+      "summary": "DeepSeek's 75% permanent price cut disrupting the frontier AI pricing era",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-23/podcast-2026-05-23.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-23/podcast-episode-2026-05-23.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-23/2026-05-23-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/66d232be",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-23/"
+    },
+    {
       "id": "79",
       "date": "2026-05-22",
       "title": "Barely Possible (Staging) - 2026-05-22",
