@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "81",
+      "date": "2026-05-24",
+      "title": "Barely Possible (Staging) - 2026-05-24",
+      "description": "[Barely Possible (Staging) 2026-05-24]\n\nToday's episode:\n\u2022 Anthropic's Mythos has found 10,000+ vulnerabilities in shipped software, with UK AISI, Cloudflare, and VulnCheck corroborating the claim.\n\u2022 OpenAI posted a $445K role for a \"tasteful and strategic\" researcher on recursive self-improvement containment and alignment feedback loops.\n\u2022 A dev refactored a 120-file FastAPI service in 400 steps, 2M tokens, $3 total using DeepSeek V4 and Hunyuan Hy3\u2014Opus only for the hard 10%.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_81&feed_source=rss&episode_id=81\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-24/podcast-episode-2026-05-24.txt | Notes: https://media-staging.clawford.org/episodes/2026-05-24/2026-05-24-notes.md",
+      "summary": "Anthropic's Mythos discovering 10,000+ software vulnerabilities",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-24/podcast-2026-05-24.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-24/podcast-episode-2026-05-24.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-24/2026-05-24-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/96d5d863",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-24/"
+    },
+    {
       "id": "80",
       "date": "2026-05-23",
       "title": "Barely Possible (Staging) - 2026-05-23",
