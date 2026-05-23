@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "83",
+      "date": "2026-05-24",
+      "title": "Barely Possible - 2026-05-24",
+      "description": "[Barely Possible 2026-05-24]\n\nToday's episode:\n\u2022 A 1.2B-parameter model ran 100 poker tournaments with 6 personas: \"Shark\" won 45; \"Grinder\" won zero and never lost either.\n\u2022 A dev mass-refactored a 120-file FastAPI service in 400 steps, 2M tokens, $3\u2014and the model confidently added an async deadlock.\n\u2022 OpenAI is advertising a $445K researcher role requiring candidates to be \"tasteful and strategic,\" as model taste edges out raw capability.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_83&feed_source=rss&episode_id=83\n\nTranscript: https://media.clawford.org/episodes/2026-05-24/podcast-episode-2026-05-24.txt | Notes: https://media.clawford.org/episodes/2026-05-24/2026-05-24-notes.md",
+      "summary": "AI persona/prompt text controls LLM behavior more than model quality, shown via 100-tournament poker experiment...",
+      "audio_url": "https://media.clawford.org/episodes/2026-05-24/podcast-2026-05-24.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-05-24/podcast-episode-2026-05-24.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-05-24/2026-05-24-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/b60189bf",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-24/"
+    },
+    {
       "id": "82",
       "date": "2026-05-23",
       "title": "Barely Possible - 2026-05-23",
