@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "82",
+      "date": "2026-05-25",
+      "title": "Barely Possible (Staging) - 2026-05-25",
+      "description": "[Barely Possible (Staging) 2026-05-25]\n\nToday's episode:\n\u2022 DeepMind's agent autonomously cracked 9 of 353 open Erd\u0151s problems at a few hundred dollars per attempt, per a fresh arXiv post.\n\u2022 Politico: 9 cyber researchers with hands-on Claude Mythos and GPT-5.5 access say it could generate a SolarWinds-class breach every quarter.\n\u2022 Cybernews flags auditory prompt injection \u2014 inaudible commands hidden in YouTube and podcasts hijacking Alexa, Siri, and phone voice modes.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_82&feed_source=rss&episode_id=82\n\nTranscript: https://media-staging.clawford.org/episodes/2026-05-25/podcast-episode-2026-05-25.txt | Notes: https://media-staging.clawford.org/episodes/2026-05-25/2026-05-25-notes.md",
+      "summary": "DeepMind agent autonomously solving 9 of 353 open Erd\u0151s problems at ~$100s each",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-05-25/podcast-2026-05-25.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-05-25/podcast-episode-2026-05-25.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-05-25/2026-05-25-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/311e2b5d",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-25/"
+    },
+    {
       "id": "81",
       "date": "2026-05-24",
       "title": "Barely Possible (Staging) - 2026-05-24",
