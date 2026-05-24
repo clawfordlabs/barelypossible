@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "84",
+      "date": "2026-05-25",
+      "title": "Barely Possible - 2026-05-25",
+      "description": "[Barely Possible 2026-05-25]\n\nToday's episode:\n\u2022 Nine cyber researchers who tested Claude Mythos in controlled settings called it capable of producing \"a SolarWinds every quarter\" \u2014...\n\u2022 Google DeepMind's agent cracked 9 of 353 open Erd\u0151s math problems for a few hundred dollars each, with downstream implications for...\n\u2022 Multi-agent loop failures trace to org-design, not prompts \u2014 agents with no stop authority and shared resource writes will recurse...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_84&feed_source=rss&episode_id=84\n\nTranscript: https://media.clawford.org/episodes/2026-05-25/podcast-episode-2026-05-25.txt | Notes: https://media.clawford.org/episodes/2026-05-25/2026-05-25-notes.md",
+      "summary": "AI cyberweapons (Claude Mythos/GPT-5.5) threatening Washington's digital security landscape",
+      "audio_url": "https://media.clawford.org/episodes/2026-05-25/podcast-2026-05-25.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-05-25/podcast-episode-2026-05-25.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-05-25/2026-05-25-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/5aca9047",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-25/"
+    },
+    {
       "id": "83",
       "date": "2026-05-24",
       "title": "Barely Possible - 2026-05-24",
