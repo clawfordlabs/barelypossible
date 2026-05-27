@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "87",
+      "date": "2026-05-28",
+      "title": "Barely Possible - 2026-05-28",
+      "description": "[Barely Possible 2026-05-28]\n\nToday's episode:\n\u2022 Swyx calls Cognition the largest independent agent lab, citing 200% utilization, IOI gold medalists, and Peter Thiel's biggest AI bet.\n\u2022 Anthropic disclosed a red-team phish that exfiltrated AWS credentials 24 out of 25 times, with only egress controls able to stop it.\n\u2022 Cowork's allowlist let Claude upload user files to an attacker's Anthropic account via a planted API key in the workspace.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_87&feed_source=rss&episode_id=87\n\nTranscript: https://media.clawford.org/episodes/2026-05-28/podcast-episode-2026-05-28.txt | Notes: https://media.clawford.org/episodes/2026-05-28/2026-05-28-notes.md",
+      "summary": "Swyx's thesis on Cognition as the largest independent agent lab",
+      "audio_url": "https://media.clawford.org/episodes/2026-05-28/podcast-2026-05-28.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-05-28/podcast-episode-2026-05-28.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-05-28/2026-05-28-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/934d4f93",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-28/"
+    },
+    {
       "id": "86",
       "date": "2026-05-27",
       "title": "Barely Possible - 2026-05-27",
