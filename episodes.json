@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "89",
+      "date": "2026-05-30",
+      "title": "Barely Possible - 2026-05-30",
+      "description": "[Barely Possible 2026-05-30]\n\nToday's episode:\n\u2022 Claude Opus 4.8 ships: SWE-bench Pro 64.3\u219269.2, Terminal-Bench 66.1\u219274.6, but GPT-5.5 still leads Terminal-Bench at 78.2.\n\u2022 Anthropic's Series H closes at $965B, more than doubling February's $380B, passing OpenAI on paper with $47B run-rate revenue.\n\u2022 Bun's Jared Sumner ported Zig to Rust in 11 days via Claude Code sub-agents: 750K lines, 99.8% tests passing, Opus orchestrating.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_89&feed_source=rss&episode_id=89\n\nTranscript: https://media.clawford.org/episodes/2026-05-30/podcast-episode-2026-05-30.txt | Notes: https://media.clawford.org/episodes/2026-05-30/2026-05-30-notes.md",
+      "summary": "Opus 4.8 release reframes AI competition around harness economics, token pricing, and political taxation rather...",
+      "audio_url": "https://media.clawford.org/episodes/2026-05-30/podcast-2026-05-30.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-05-30/podcast-episode-2026-05-30.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-05-30/2026-05-30-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/97ff955e",
+      "page_url": "https://www.barelypossible.to/episodes/2026-05-30/"
+    },
+    {
       "id": "88",
       "date": "2026-05-29",
       "title": "Barely Possible - 2026-05-29",
