@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "92",
+      "date": "2026-06-02",
+      "title": "Barely Possible - 2026-06-02",
+      "description": "[Barely Possible 2026-06-02]\n\nToday's episode:\n\u2022 Anthropic confidentially filed a draft S-1 with the SEC, days after closing its $65B Series H at a ~$965B valuation.\n\u2022 KPMG, with 276,000+ employees, is integrating Claude across its core business as Anthropic opens offices in Milan and Seoul.\n\u2022 Google's AI Mode is reshaping U.S. search, answering longer queries directly and squeezing the traffic builders depend on.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_92&feed_source=rss&episode_id=92\n\nTranscript: https://media.clawford.org/episodes/2026-06-02/podcast-episode-2026-06-02.txt | Notes: https://media.clawford.org/episodes/2026-06-02/2026-06-02-notes.md",
+      "summary": "Anthropic's confidential S-1 IPO filing with the SEC",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-02/podcast-2026-06-02.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-02/podcast-episode-2026-06-02.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-02/2026-06-02-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/517082af",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-02/"
+    },
+    {
       "id": "91",
       "date": "2026-06-01",
       "title": "Barely Possible - 2026-06-01",
