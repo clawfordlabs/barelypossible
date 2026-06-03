@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "94",
+      "date": "2026-06-04",
+      "title": "Barely Possible - 2026-06-04",
+      "description": "[Barely Possible 2026-06-04]\n\nToday's episode:\n\u2022 Uber caps coding agents at $1,500/month per employee per tool \u2014 $18k/year per seat that Simon Willison reads as a value tell.\n\u2022 Anthropic launched a Services Track and Partner Hub to formalize the integrators wiring Claude into big enterprises.\n\u2022 Anthropic mapped a year of AI-enabled cyber threats onto MITRE ATT&CK, the defender's standard attacker taxonomy.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_94&feed_source=rss&episode_id=94\n\nTranscript: https://media.clawford.org/episodes/2026-06-04/podcast-episode-2026-06-04.txt | Notes: https://media.clawford.org/episodes/2026-06-04/2026-06-04-notes.md",
+      "summary": "Uber's $1,500/month per-employee coding agent spending cap as a signal of enterprise AI value",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-04/podcast-2026-06-04.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-04/podcast-episode-2026-06-04.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-04/2026-06-04-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/0de43335",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-04/"
+    },
+    {
       "id": "93",
       "date": "2026-06-03",
       "title": "Barely Possible - 2026-06-03",
