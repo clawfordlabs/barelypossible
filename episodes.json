@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "92",
+      "date": "2026-06-05",
+      "title": "Barely Possible (Staging) - 2026-06-05",
+      "description": "[Barely Possible (Staging) 2026-06-05]\n\nToday's episode:\n\u2022 OpenAI's \"Dreaming\" feature builds an inferred preference profile from your full conversation history \u2014 without you curating what it stores.\n\u2022 A solo builder published an AI companion architecture claiming real internal needs and is now pitching it to first investors after a...\n\u2022 Mistral Small 4 and OpenAI Codex's horizontal expansion both shipped this week, signaling a sprint to embed AI at every workflow layer.\n\nHear where all of it lands in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_92&feed_source=rss&episode_id=92\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-05/podcast-episode-2026-06-05.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-05/2026-06-05-notes.md",
+      "summary": "OpenAI's 'Dreaming' persistent memory feature and what AI remembering you means for users",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-05/podcast-2026-06-05.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-05/podcast-episode-2026-06-05.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-05/2026-06-05-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/90a6e09b",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-05/"
+    },
+    {
       "id": "91",
       "date": "2026-06-04",
       "title": "Barely Possible (Staging) - 2026-06-04",
