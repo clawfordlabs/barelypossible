@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "93",
+      "date": "2026-06-06",
+      "title": "Barely Possible (Staging) - 2026-06-06",
+      "description": "[Barely Possible (Staging) 2026-06-06]\n\nToday's episode:\n\u2022 A frontier AI reportedly closed Paul Erd\u0151s's 1946 unit distance conjecture for under $1,000 in compute costs.\n\u2022 External mathematicians confirmed the proof, but the path ran through AI grading, human review, and AI-assisted rewriting.\n\u2022 A Reddit chart tracking AI-solved math problems over six months shows human-AI collaboration\u2014not fully autonomous AI\u2014as the...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_93&feed_source=rss&episode_id=93\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-06/podcast-episode-2026-06-06.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-06/2026-06-06-notes.md",
+      "summary": "AI solves 80-year-old Erd\u0151s conjecture for under $1,000, challenging assumptions about the cost of hard discovery",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-06/podcast-2026-06-06.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-06/podcast-episode-2026-06-06.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-06/2026-06-06-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/7906cba2",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-06/"
+    },
+    {
       "id": "92",
       "date": "2026-06-05",
       "title": "Barely Possible (Staging) - 2026-06-05",
