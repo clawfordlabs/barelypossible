@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "97",
+      "date": "2026-06-07",
+      "title": "Barely Possible - 2026-06-07",
+      "description": "[Barely Possible 2026-06-07]\n\nToday's episode:\n\u2022 Bernhard Hauser gave an autonomous AI agent its own computer\u2014and argues the seat-based SaaS model dies when the user is a machine.\n\u2022 Trump says the administration might take an equity stake in OpenAI; Bernie Sanders floated government owning half of major AI labs.\n\u2022 Reid Hoffman is leaving Microsoft's board to go \"founder mode\" with Manus, and Sriram Krishnan exits as White House AI advisor.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_97&feed_source=rss&episode_id=97\n\nTranscript: https://media.clawford.org/episodes/2026-06-07/podcast-episode-2026-06-07.txt | Notes: https://media.clawford.org/episodes/2026-06-07/2026-06-07-notes.md",
+      "summary": "AI agents with their own computers threatening the SaaS seat-based model, plus government's possible OpenAI stake",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-07/podcast-2026-06-07.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-07/podcast-episode-2026-06-07.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-07/2026-06-07-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/333b1c8a",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-07/"
+    },
+    {
       "id": "96",
       "date": "2026-06-06",
       "title": "Barely Possible - 2026-06-06",
