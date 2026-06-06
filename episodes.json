@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "94",
+      "date": "2026-06-07",
+      "title": "Barely Possible (Staging) - 2026-06-07",
+      "description": "[Barely Possible (Staging) 2026-06-07]\n\nToday's episode:\n\u2022 Boston Dynamics & Hyundai's \"School of Football\" trains Atlas on large volumes of football footage via imitation learning\u2014no result...\n\u2022 LimX Dynamics' Luna humanoid drew viral comparisons to athletic human movement, but critics want table-clearing and dish-washing, not...\n\u2022 A 7MB open-source self-driving model runs entirely on a phone; a solo dev built a portable GPU ISA from scratch after reading...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_94&feed_source=rss&episode_id=94\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-07/podcast-episode-2026-06-07.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-07/2026-06-07-notes.md",
+      "summary": "Boston Dynamics Atlas & LimX Luna humanoid robots learning from human video data via imitation learning",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-07/podcast-2026-06-07.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-07/podcast-episode-2026-06-07.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-07/2026-06-07-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/36e50240",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-07/"
+    },
+    {
       "id": "93",
       "date": "2026-06-06",
       "title": "Barely Possible (Staging) - 2026-06-06",
