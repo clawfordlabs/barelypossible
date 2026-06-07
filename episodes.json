@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "95",
+      "date": "2026-06-08",
+      "title": "Barely Possible (Staging) - 2026-06-08",
+      "description": "[Barely Possible (Staging) 2026-06-08]\n\nToday's episode:\n\u2022 A r/singularity post titled \"now they do animated gaussian splat porn\" became an accidental cultural document on AI's first mass...\n\u2022 Gaussian splatting\u2014born from INRIA's 2023 research for surgical planning and autonomous vehicles\u2014hit adult content communities before...\n\u2022 Endava is restructuring its entire software delivery model around AI agents, cutting humans out of routine dev cycles.\n\nHear how it all connects in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_95&feed_source=rss&episode_id=95\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-08/podcast-episode-2026-06-08.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-08/2026-06-08-notes.md",
+      "summary": "r/singularity viral post reveals AI's first mass use is animated Gaussian splat porn, exposing civilization-scale...",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-08/podcast-2026-06-08.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-08/podcast-episode-2026-06-08.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-08/2026-06-08-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/5398137d",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-08/"
+    },
+    {
       "id": "94",
       "date": "2026-06-07",
       "title": "Barely Possible (Staging) - 2026-06-07",
