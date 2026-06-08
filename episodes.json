@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "99",
+      "date": "2026-06-09",
+      "title": "Barely Possible - 2026-06-09",
+      "description": "[Barely Possible 2026-06-09]\n\nToday's episode:\n\u2022 73 Microsoft-linked packages carry a self-replicating credential stealer that fires when an AI coding agent opens them\u2014not a human.\n\u2022 The worm rides your agent's GitHub tokens to spread; Microsoft pulled dozens of Azure and AI tool repos after the hack.\n\u2022 Apple's new \"Siri AI\" runs on a two-tiered, Google-powered model overhaul\u2014frontier capability isn't in Cupertino.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_99&feed_source=rss&episode_id=99\n\nTranscript: https://media.clawford.org/episodes/2026-06-09/podcast-episode-2026-06-09.txt | Notes: https://media.clawford.org/episodes/2026-06-09/2026-06-09-notes.md",
+      "summary": "Self-replicating credential stealer in 73 Microsoft packages that triggers when AI coding agents open them",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-09/podcast-2026-06-09.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-09/podcast-episode-2026-06-09.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-09/2026-06-09-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/31750bb9",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-09/"
+    },
+    {
       "id": "98",
       "date": "2026-06-08",
       "title": "Barely Possible - 2026-06-08",
