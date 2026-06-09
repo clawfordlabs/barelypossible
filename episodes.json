@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "100",
+      "date": "2026-06-10",
+      "title": "Barely Possible - 2026-06-10",
+      "description": "[Barely Possible 2026-06-10]\n\nToday's episode:\n\u2022 Anthropic shipped Claude Fable 5, the safety-wrapped public version of its internal frontier engine, Mythos.\n\u2022 On Cognition's FrontierCode Diamond set, Opus 4.8 hit just 13.4% and GPT-5.5 6.3% on \"would a maintainer merge this?\"\n\u2022 swyx says Mythos went from infra deal to GA in 34 days on Nvidia's stack, with tasks costing hundreds of dollars each.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_100&feed_source=rss&episode_id=100\n\nTranscript: https://media.clawford.org/episodes/2026-06-10/podcast-episode-2026-06-10.txt | Notes: https://media.clawford.org/episodes/2026-06-10/2026-06-10-notes.md",
+      "summary": "Claude Fable 5 (Mythos) release as a step-change coding model",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-10/podcast-2026-06-10.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-10/podcast-episode-2026-06-10.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-10/2026-06-10-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/cf7af157",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-10/"
+    },
+    {
       "id": "99",
       "date": "2026-06-09",
       "title": "Barely Possible - 2026-06-09",
