@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "98",
+      "date": "2026-06-11",
+      "title": "Barely Possible (Staging) - 2026-06-11",
+      "description": "[Barely Possible (Staging) 2026-06-11]\n\nToday's episode:\n\u2022 A Reddit user spotted ~12 large-scale data center proposals within 30 miles of his Pennsylvania home\u2014all appearing within one year.\n\u2022 A single LLM inference query uses ~10\u00d7 the energy of a Google search; frontier training runs can pull hundreds of MW continuously for...\n\u2022 Security firm SafeDep documented \"Megalodon,\" a mass-scale campaign backdooring CI/CD pipelines across GitHub repos\u2014the same...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_98&feed_source=rss&episode_id=98\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-11/podcast-episode-2026-06-11.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-11/2026-06-11-notes.md",
+      "summary": "AI data center buildout's physical impact on rural communities\u2014power, water, land, and local governance",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-11/podcast-2026-06-11.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-11/podcast-episode-2026-06-11.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-11/2026-06-11-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/6d293ce1",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-11/"
+    },
+    {
       "id": "97",
       "date": "2026-06-10",
       "title": "Barely Possible (Staging) - 2026-06-10",
