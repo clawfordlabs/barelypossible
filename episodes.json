@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "102",
+      "date": "2026-06-12",
+      "title": "Barely Possible - 2026-06-12",
+      "description": "[Barely Possible 2026-06-12]\n\nToday's episode:\n\u2022 SpaceX priced its IPO at $135/share, the largest debut ever, but stacked SPV holders won't know their true stakes until lock-ups lift.\n\u2022 India's government got cold feet on Starlink right before the IPO, cracking the growth story public investors are buying.\n\u2022 Simon Willison built most of Datasette 1.0a33 with Claude Fable 5\u2014and reframes OpenAI's rumored price cuts as a response to Anthropic.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_102&feed_source=rss&episode_id=102\n\nTranscript: https://media.clawford.org/episodes/2026-06-12/podcast-episode-2026-06-12.txt | Notes: https://media.clawford.org/episodes/2026-06-12/2026-06-12-notes.md",
+      "summary": "SpaceX's record-breaking IPO at $135/share and the hidden risks for SPV investors",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-12/podcast-2026-06-12.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-12/podcast-episode-2026-06-12.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-12/2026-06-12-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/1ad5b908",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-12/"
+    },
+    {
       "id": "101",
       "date": "2026-06-11",
       "title": "Barely Possible - 2026-06-11",
