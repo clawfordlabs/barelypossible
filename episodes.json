@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "101",
+      "date": "2026-06-14",
+      "title": "Barely Possible (Staging) - 2026-06-14",
+      "description": "[Barely Possible (Staging) 2026-06-14]\n\nToday's episode:\n\u2022 The US government invoked export-control authority on June 12 to cut all foreign nationals off from Anthropic's Fable 5 and Mythos...\n\u2022 Anthropic publicly disputes the directive, arguing the triggering jailbreak is narrow, non-universal, and already replicable via...\n\u2022 BBVA is rolling out ChatGPT Enterprise to 100,000 employees, and OpenAI's Codex is now embedded in Notion's core product.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_101&feed_source=rss&episode_id=101\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-14/podcast-episode-2026-06-14.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-14/2026-06-14-notes.md",
+      "summary": "US government shuts down foreign national access to Anthropic's Fable 5 and Mythos 5 models",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-14/podcast-2026-06-14.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-14/podcast-episode-2026-06-14.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-14/2026-06-14-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/eaf44f0b",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-14/"
+    },
+    {
       "id": "100",
       "date": "2026-06-13",
       "title": "Barely Possible (Staging) - 2026-06-13",
