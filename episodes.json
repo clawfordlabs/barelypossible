@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "104",
+      "date": "2026-06-14",
+      "title": "Barely Possible - 2026-06-14",
+      "description": "[Barely Possible 2026-06-14]\n\nToday's episode:\n\u2022 Commerce ordered Anthropic to pull Fable 5 & Mythos 5 worldwide Friday at 5:21pm ET over a single alleged jailbreak.\n\u2022 TechCrunch ties the security finding to Amazon's own researchers \u2014 an Anthropic investor whose testing lit the fuse.\n\u2022 The \"national security threat\" was reportedly asking the model to fix code-base flaws, a thing GPT-5.5 does daily.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_104&feed_source=rss&episode_id=104\n\nTranscript: https://media.clawford.org/episodes/2026-06-14/podcast-episode-2026-06-14.txt | Notes: https://media.clawford.org/episodes/2026-06-14/2026-06-14-notes.md",
+      "summary": "US Commerce Dept's export-control kill switch on Anthropic's Fable 5 & Mythos 5 over a jailbreak",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-14/podcast-2026-06-14.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-14/podcast-episode-2026-06-14.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-14/2026-06-14-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/71a1d426",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-14/"
+    },
+    {
       "id": "103",
       "date": "2026-06-13",
       "title": "Barely Possible - 2026-06-13",
