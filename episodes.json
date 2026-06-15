@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "106",
+      "date": "2026-06-16",
+      "title": "Barely Possible - 2026-06-16",
+      "description": "[Barely Possible 2026-06-16]\n\nToday's episode:\n\u2022 Salesforce paid $3.6B for Fin to feed Agentforce \u2014 buying the messy escalation logic, not the chatbot, before rivals like ServiceNow do.\n\u2022 Nvidia is borrowing $25B+ in its first bond deal since 2021, as the AI buildout leans harder on debt while Uber and Meta ration tokens.\n\u2022 The UK unveiled an under-16 social media ban covering TikTok, Snapchat, YouTube, Instagram, Facebook and X, with possible overnight curfews.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_106&feed_source=rss&episode_id=106\n\nTranscript: https://media.clawford.org/episodes/2026-06-16/podcast-episode-2026-06-16.txt | Notes: https://media.clawford.org/episodes/2026-06-16/2026-06-16-notes.md",
+      "summary": "Salesforce's $3.6B Fin acquisition to boost Agentforce as an agent-platform consolidation signal",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-16/podcast-2026-06-16.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-16/podcast-episode-2026-06-16.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-16/2026-06-16-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/fbbe3ad4",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-16/"
+    },
+    {
       "id": "105",
       "date": "2026-06-15",
       "title": "Barely Possible - 2026-06-15",
