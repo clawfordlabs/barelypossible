@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "108",
+      "date": "2026-06-18",
+      "title": "Barely Possible - 2026-06-18",
+      "description": "[Barely Possible 2026-06-18]\n\nToday's episode:\n\u2022 Tesco is moving 40,000 server workloads off VMware after Broadcom hiked prices ~175%, calling it \"abusive conduct\" in court filings.\n\u2022 Uber blew through its annual AI budget in months and capped coding agents at $1,500/employee; Meta killed its internal leaderboard.\n\u2022 Macron and Modi warned at the G7 that the US could cut off American AI after Commerce forced Anthropic to disable foreign access.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_108&feed_source=rss&episode_id=108\n\nTranscript: https://media.clawford.org/episodes/2026-06-18/podcast-episode-2026-06-18.txt | Notes: https://media.clawford.org/episodes/2026-06-18/2026-06-18-notes.md",
+      "summary": "Tesco's VMware exit as a lock-in warning for AI tooling dependence",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-18/podcast-2026-06-18.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-18/podcast-episode-2026-06-18.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-18/2026-06-18-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/88788b18",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-18/"
+    },
+    {
       "id": "107",
       "date": "2026-06-17",
       "title": "Barely Possible - 2026-06-17",
