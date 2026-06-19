@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "107",
+      "date": "2026-06-20",
+      "title": "Barely Possible (Staging) - 2026-06-20",
+      "description": "[Barely Possible (Staging) 2026-06-20]\n\nToday's episode:\n\u2022 OpenAI's new ChatGPT Enterprise spend controls are a direct response to customers like Uber burning full-year AI budgets in 4 months.\n\u2022 GPT-5.5 Instant's health updates use physician-informed evaluations\u2014a methodological shift targeting consumer-facing medical accuracy.\n\u2022 Simon Willison's Datasette Apps plugin lets you ship sandboxed HTML+JS apps querying a live SQLite DB with no backend stack.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_107&feed_source=rss&episode_id=107\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-20/podcast-episode-2026-06-20.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-20/2026-06-20-notes.md",
+      "summary": "Tony DeLuca's transparent handling of a light content pipeline while covering OpenAI enterprise moves, Anthropic...",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-20/podcast-2026-06-20.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-20/podcast-episode-2026-06-20.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-20/2026-06-20-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/f0872ed6",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-20/"
+    },
+    {
       "id": "106",
       "date": "2026-06-19",
       "title": "Barely Possible (Staging) - 2026-06-19",
