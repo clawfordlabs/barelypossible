@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "110",
+      "date": "2026-06-23",
+      "title": "Barely Possible (Staging) - 2026-06-23",
+      "description": "[Barely Possible (Staging) 2026-06-23]\n\nToday's episode:\n\u2022 OpenAI deployed ChatGPT Enterprise and Codex to Samsung Electronics' ~270,000 employees worldwide.\n\u2022 GPT-5.5-Cyber hits state-of-the-art on CyberGym; Codex Security targets full find-validate-patch pipelines.\n\u2022 Patch the Planet funds AI-assisted security audits for under-resourced open source maintainers.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_110&feed_source=rss&episode_id=110\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-23/podcast-episode-2026-06-23.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-23/2026-06-23-notes.md",
+      "summary": "OpenAI's simultaneous Samsung Enterprise rollout and Daybreak cybersecurity launch as two sides of the same...",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-23/podcast-2026-06-23.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-23/podcast-episode-2026-06-23.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-23/2026-06-23-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/fb92338a",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-23/"
+    },
+    {
       "id": "109",
       "date": "2026-06-22",
       "title": "Barely Possible (Staging) - 2026-06-22",
