@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "111",
+      "date": "2026-06-24",
+      "title": "Barely Possible (Staging) - 2026-06-24",
+      "description": "[Barely Possible (Staging) 2026-06-24]\n\nToday's episode:\n\u2022 GPT-5 Pro broke a 3-year T cell research logjam for immunologist Derya Unutmaz\u2014with implications for cancer and autoimmune disease.\n\u2022 OpenAI is the source, so we weigh what a self-reported, unreviewed hypothesis actually proves\u2014and what it doesn't.\n\u2022 Codex \"maxxing\" techniques for long-running agentic work show how practitioners engineer around frontier model limits right now.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_111&feed_source=rss&episode_id=111\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-24/podcast-episode-2026-06-24.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-24/2026-06-24-notes.md",
+      "summary": "GPT-5 solving immunologist Derya Unutmaz's 3-year T cell mystery as proof of real-world AI science impact",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-24/podcast-2026-06-24.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-24/podcast-episode-2026-06-24.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-24/2026-06-24-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/8d1d7a1e",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-24/"
+    },
+    {
       "id": "110",
       "date": "2026-06-23",
       "title": "Barely Possible (Staging) - 2026-06-23",
