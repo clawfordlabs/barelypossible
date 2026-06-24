@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "112",
+      "date": "2026-06-25",
+      "title": "Barely Possible (Staging) - 2026-06-25",
+      "description": "[Barely Possible (Staging) 2026-06-25]\n\nToday's episode:\n\u2022 OpenAI & Broadcom's co-designed ASIC \"Jalape\u00f1o\" targets inference workloads specifically, the same strategic move Apple made with...\n\u2022 Owning inference hardware turns compute from a commodity cost into a structural moat rivals can't close by buying more NVIDIA GPUs.\n\u2022 Mistral OCR 4 dropped the same day, signaling the inference efficiency race extends well beyond OpenAI.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_112&feed_source=rss&episode_id=112\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-25/podcast-episode-2026-06-25.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-25/2026-06-25-notes.md",
+      "summary": "OpenAI & Broadcom's Jalape\u00f1o co-designed AI inference chip and the shift in AI's competitive battlefield to...",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-25/podcast-2026-06-25.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-25/podcast-episode-2026-06-25.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-25/2026-06-25-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/7b9f508d",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-25/"
+    },
+    {
       "id": "111",
       "date": "2026-06-24",
       "title": "Barely Possible (Staging) - 2026-06-24",
