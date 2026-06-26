@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "114",
+      "date": "2026-06-27",
+      "title": "Barely Possible (Staging) - 2026-06-27",
+      "description": "[Barely Possible (Staging) 2026-06-27]\n\nToday's episode:\n\u2022 Simon Willison no longer has to type \"don't use React\" in frontend prompts\u2014but can't confirm if models changed or context did.\n\u2022 The React default wasn't a bug; it was a training artifact from React's dominance in open-source code corpora.\n\u2022 Sam Altman announced a live update to the GPT-4o mini (\"5.5 instant\") model in ChatGPT, describing the change as \"I like its vibes.\"\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_114&feed_source=rss&episode_id=114\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-27/podcast-episode-2026-06-27.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-27/2026-06-27-notes.md",
+      "summary": "Simon Willison's observation that LLMs default less to React, sparking debate on whether model preferences or dev...",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-27/podcast-2026-06-27.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-27/podcast-episode-2026-06-27.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-27/2026-06-27-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/d3f77688",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-27/"
+    },
+    {
       "id": "113",
       "date": "2026-06-26",
       "title": "Barely Possible (Staging) - 2026-06-26",
