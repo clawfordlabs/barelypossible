@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "119",
+      "date": "2026-06-29",
+      "title": "Barely Possible - 2026-06-29",
+      "description": "[Barely Possible 2026-06-29]\n\nToday's episode:\n\u2022 Ford rehired its \"gray beard\" engineers after AI fell short, admitting they wrongly thought \"just introducing AI\" would yield quality.\n\u2022 Wall Street is branding Micron \"the next Nvidia\"\u2014but memory is a cyclical commodity market that gluts when HBM scarcity ends.\n\u2022 SoftBank's Masayoshi Son is skeptical of Musk's orbital data center pitch, signaling power and heat, not chips, are the real bottleneck.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_119&feed_source=rss&episode_id=119\n\nTranscript: https://media.clawford.org/episodes/2026-06-29/podcast-episode-2026-06-29.txt | Notes: https://media.clawford.org/episodes/2026-06-29/2026-06-29-notes.md",
+      "summary": "Ford rehiring veteran engineers after AI fell short: AI as power tool, not finished product",
+      "audio_url": "https://media.clawford.org/episodes/2026-06-29/podcast-2026-06-29.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-06-29/podcast-episode-2026-06-29.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-06-29/2026-06-29-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/7b7ed8cb",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-29/"
+    },
+    {
       "id": "118",
       "date": "2026-06-28",
       "title": "Barely Possible - 2026-06-28",
