@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "116",
+      "date": "2026-06-29",
+      "title": "Barely Possible (Staging) - 2026-06-29",
+      "description": "[Barely Possible (Staging) 2026-06-29]\n\nToday's episode:\n\u2022 A builder crammed four RTX 5060 Ti 16 GB cards onto one consumer motherboard \u2014 64 GB VRAM total \u2014 and hit a thermal dead-zone problem...\n\u2022 Undervolting reduces heat enough to make tight PCIe spacing survivable, but sustained inference workloads apply steady-state thermal...\n\u2022 Mistral quietly shipped connector-level access controls for enterprise API users, tightening permissioning without a major product...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_116&feed_source=rss&episode_id=116\n\nTranscript: https://media-staging.clawford.org/episodes/2026-06-29/podcast-episode-2026-06-29.txt | Notes: https://media-staging.clawford.org/episodes/2026-06-29/2026-06-29-notes.md",
+      "summary": "DIY multi-GPU local AI build challenges: thermal limits, CUDA instability, and hardware compatibility struggles",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-06-29/podcast-2026-06-29.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-06-29/podcast-episode-2026-06-29.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-06-29/2026-06-29-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/4996eebc",
+      "page_url": "https://www.barelypossible.to/episodes/2026-06-29/"
+    },
+    {
       "id": "115",
       "date": "2026-06-28",
       "title": "Barely Possible (Staging) - 2026-06-28",
