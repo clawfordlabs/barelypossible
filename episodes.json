@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "121",
+      "date": "2026-07-01",
+      "title": "Barely Possible - 2026-07-01",
+      "description": "[Barely Possible 2026-07-01]\n\nToday's episode:\n\u2022 Simon Willison's math: Claude Sonnet 5's new tokenizer makes it ~1.4x pricier for English despite lower per-token pricing.\n\u2022 Etched hit a $5B valuation with $1B already booked for its transformer-only inference chips taking aim at Nvidia.\n\u2022 EquiLibre Technologies, ex-DeepMind poker AI builders in Prague, now valued over $500M making money for quant hedge funds.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_121&feed_source=rss&episode_id=121\n\nTranscript: https://media.clawford.org/episodes/2026-07-01/podcast-episode-2026-07-01.txt | Notes: https://media.clawford.org/episodes/2026-07-01/2026-07-01-notes.md",
+      "summary": "Claude Sonnet 5's tokenizer making it ~1.4x pricier despite lower per-token pricing",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-01/podcast-2026-07-01.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-01/podcast-episode-2026-07-01.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-01/2026-07-01-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/5a1b1f31",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-01/"
+    },
+    {
       "id": "120",
       "date": "2026-06-30",
       "title": "Barely Possible - 2026-06-30",
