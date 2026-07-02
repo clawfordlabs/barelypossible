@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "123",
+      "date": "2026-07-03",
+      "title": "Barely Possible - 2026-07-03",
+      "description": "[Barely Possible 2026-07-03]\n\nToday's episode:\n\u2022 Jersey Mike's, a sandwich chain, name-dropped AI in its IPO filing \u2014 a clean signal the hype curve has topped out.\n\u2022 OpenAI floated handing a US sovereign wealth fund 5% equity, roughly $42B, to buy political goodwill.\n\u2022 Google lost its EU appeal and must pay $4.7B over bundling Chrome and search with Android.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_123&feed_source=rss&episode_id=123\n\nTranscript: https://media.clawford.org/episodes/2026-07-03/podcast-episode-2026-07-03.txt | Notes: https://media.clawford.org/episodes/2026-07-03/2026-07-03-notes.md",
+      "summary": "Jersey Mike's IPO name-dropping AI as a signal of peak AI hype",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-03/podcast-2026-07-03.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-03/podcast-episode-2026-07-03.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-03/2026-07-03-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/e7614e80",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-03/"
+    },
+    {
       "id": "122",
       "date": "2026-07-02",
       "title": "Barely Possible - 2026-07-02",
