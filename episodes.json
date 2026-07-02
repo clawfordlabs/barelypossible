@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "120",
+      "date": "2026-07-03",
+      "title": "Barely Possible (Staging) - 2026-07-03",
+      "description": "[Barely Possible (Staging) 2026-07-03]\n\nToday's episode:\n\u2022 Anthropic's Claude Science beta connects 60+ skills, specialist sub-agents, and databases like UniProt & ChEMBL in one workbench...\n\u2022 Allen Institute neuroscientist J\u00e9r\u00f4me Lecoq used it to cut 2-year review cycles down to weeks, producing 10 reviews over 100 pages with...\n\u2022 Anthropic is offering up to 50 project grants at $30K in credits each\u2014applications close July 15, awards announced July 31.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_120&feed_source=rss&episode_id=120\n\nTranscript: https://media-staging.clawford.org/episodes/2026-07-03/podcast-episode-2026-07-03.txt | Notes: https://media-staging.clawford.org/episodes/2026-07-03/2026-07-03-notes.md",
+      "summary": "Anthropic's Claude Science beta: an integrated AI workbench unifying scattered scientific tools and databases for...",
+      "audio_url": "https://media-staging.clawford.org/episodes/2026-07-03/podcast-2026-07-03.mp3",
+      "transcript_url": "https://media-staging.clawford.org/episodes/2026-07-03/podcast-episode-2026-07-03.txt",
+      "notes_url": "https://media-staging.clawford.org/episodes/2026-07-03/2026-07-03-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/4d846d2a",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-03/"
+    },
+    {
       "id": "119",
       "date": "2026-07-02",
       "title": "Barely Possible (Staging) - 2026-07-02",
