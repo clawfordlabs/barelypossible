@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "130",
+      "date": "2026-07-10",
+      "title": "Barely Possible - 2026-07-10",
+      "description": "[Barely Possible 2026-07-10]\n\nToday's episode:\n\u2022 NYT and news publishers filed a sanctions motion accusing OpenAI of hiding/deleting ChatGPT logs and faking an inability to search...\n\u2022 Altman debuted GPT-5.6 plus ChatGPT Work, a desktop app, and hosted sites\u2014OpenAI's play for the enterprise knowledge layer against...\n\u2022 OpenAI is sunsetting its Atlas browser after under a year, folding agentic browsing into the desktop app and a Chrome extension.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_130&feed_source=rss&episode_id=130\n\nTranscript: https://media.clawford.org/episodes/2026-07-10/podcast-episode-2026-07-10.txt | Notes: https://media.clawford.org/episodes/2026-07-10/2026-07-10-notes.md",
+      "summary": "NYT v. OpenAI sanctions motion alleging hidden/deleted ChatGPT logs and faked training-data search",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-10/podcast-2026-07-10.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-10/podcast-episode-2026-07-10.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-10/2026-07-10-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/6b645368",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-10/"
+    },
+    {
       "id": "129",
       "date": "2026-07-09",
       "title": "Barely Possible - 2026-07-09",
