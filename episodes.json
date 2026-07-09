@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "129",
+      "date": "2026-07-09",
+      "title": "Barely Possible - 2026-07-09",
+      "description": "[Barely Possible 2026-07-09]\n\nToday's episode:\n\u2022 Here's what actually happened, per the reporting: the Waymo stopped, called 911 itself, and sat there and waited for the San Mateo...\n\u2022 The CEO's argument, laid out in the piece, is that models like ChatGPT and Claude are genuinely great at text.\n\u2022 General Intuition thinks gaming data is the training set for physical AI \u2014 for robots \u2014 and that if you feed a foundation model enough...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_129&feed_source=rss&episode_id=129\n\nTranscript: https://media.clawford.org/episodes/2026-07-09/podcast-episode-2026-07-09.txt | Notes: https://media.clawford.org/episodes/2026-07-09/2026-07-09-notes.md",
+      "summary": "Here's what actually happened, per the reporting: the Waymo stopped, called 911 itself, and sat there and waited for the San Mateo...",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-09/podcast-2026-07-09.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-09/podcast-episode-2026-07-09.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-09/2026-07-09-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/27f24ee1",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-09/"
+    },
+    {
       "id": "128",
       "date": "2026-07-08",
       "title": "Barely Possible - 2026-07-08",
