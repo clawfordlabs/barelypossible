@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "134",
+      "date": "2026-07-14",
+      "title": "Barely Possible - 2026-07-14",
+      "description": "[Barely Possible 2026-07-14]\n\nToday's episode:\n\u2022 AI buildout is starving phone-chip fabs; smartphone shipments hit historic lows while Apple and Samsung's scale lets them win.\n\u2022 One memory chairman calls 2027 the worst year for supply, so hardware makers pricing on today's BOM are building on sand.\n\u2022 Musk called Altman a scammer; Altman clapped back that Musk sells \"short-term space datacenters\" to public market investors.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_134&feed_source=rss&episode_id=134\n\nTranscript: https://media.clawford.org/episodes/2026-07-14/podcast-episode-2026-07-14.txt | Notes: https://media.clawford.org/episodes/2026-07-14/2026-07-14-notes.md",
+      "summary": "Memory shortage from AI buildout crushing smartphone shipments while Apple/Samsung benefit",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-14/podcast-2026-07-14.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-14/podcast-episode-2026-07-14.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-14/2026-07-14-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/e41d7b44",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-14/"
+    },
+    {
       "id": "133",
       "date": "2026-07-13",
       "title": "Barely Possible - 2026-07-13",
