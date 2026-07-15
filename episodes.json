@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "136",
+      "date": "2026-07-16",
+      "title": "Barely Possible - 2026-07-16",
+      "description": "[Barely Possible 2026-07-16]\n\nToday's episode:\n\u2022 OpenAI's first branded hardware is the $230 Codex Micro, a light-up keyboard for tracking multiple agentic coding threads at a glance.\n\u2022 Judge Boasberg blocked the State Department from deporting non-citizen content moderators; it couldn't tie any of 5 targeted...\n\u2022 Swyx says GPT-5.6 plus the Superapp is dramatically better at computer use, and calls underestimating agents a \"dangerous category error.\"\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_136&feed_source=rss&episode_id=136\n\nTranscript: https://media.clawford.org/episodes/2026-07-16/podcast-episode-2026-07-16.txt | Notes: https://media.clawford.org/episodes/2026-07-16/2026-07-16-notes.md",
+      "summary": "OpenAI's $230 Codex Micro keyboard for monitoring multiple agentic coding threads",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-16/podcast-2026-07-16.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-16/podcast-episode-2026-07-16.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-16/2026-07-16-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/29e5c005",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-16/"
+    },
+    {
       "id": "135",
       "date": "2026-07-15",
       "title": "Barely Possible - 2026-07-15",
