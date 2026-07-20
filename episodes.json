@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "141",
+      "date": "2026-07-21",
+      "title": "Barely Possible - 2026-07-21",
+      "description": "[Barely Possible 2026-07-21]\n\nToday's episode:\n\u2022 Natural raised a $30M Series A led by Forerunner's Kirsten Green to let AI agents move, store, and dispute money with no human approving.\n\u2022 CEO Kahlil Lalji claims agent-speed payments could be 10,000x today's volume; Natural takes on Stripe and stablecoin-backed Skyfire.\n\u2022 MCP's May spec update fixes session IDs across load-balanced servers, explained by Arcade's Nate Barbettini after a $60M June raise.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_141&feed_source=rss&episode_id=141\n\nTranscript: https://media.clawford.org/episodes/2026-07-21/podcast-episode-2026-07-21.txt | Notes: https://media.clawford.org/episodes/2026-07-21/2026-07-21-notes.md",
+      "summary": "Natural's $30M raise for agent-to-agent payment infrastructure with no human in the loop",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-21/podcast-2026-07-21.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-21/podcast-episode-2026-07-21.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-21/2026-07-21-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/f72f8179",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-21/"
+    },
+    {
       "id": "140",
       "date": "2026-07-20",
       "title": "Barely Possible - 2026-07-20",
