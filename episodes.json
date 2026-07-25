@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "146",
+      "date": "2026-07-26",
+      "title": "Barely Possible - 2026-07-26",
+      "description": "[Barely Possible 2026-07-26]\n\nToday's episode:\n\u2022 A single DC power line failure made 3GW of Northern Virginia data centers flip to backup at once, spiking PJM voltage to Chicago.\n\u2022 ON.Energy is installing 3GW of grid-buffering batteries across four campuses; ERCOT will now require big loads to \"ride through.\"\n\u2022 Prentis, Reid Hoffman and Mark Pincus's computer-use AI lab, is raising $100M at a $1B valuation, per TechCrunch.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_146&feed_source=rss&episode_id=146\n\nTranscript: https://media.clawford.org/episodes/2026-07-26/podcast-episode-2026-07-26.txt | Notes: https://media.clawford.org/episodes/2026-07-26/2026-07-26-notes.md",
+      "summary": "Data centers' self-protective disconnect causing 3GW voltage spike on PJM grid after DC power line failure",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-26/podcast-2026-07-26.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-26/podcast-episode-2026-07-26.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-26/2026-07-26-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/859b6710",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-26/"
+    },
+    {
       "id": "145",
       "date": "2026-07-25",
       "title": "Barely Possible - 2026-07-25",
