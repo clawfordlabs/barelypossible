@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "149",
+      "date": "2026-07-29",
+      "title": "Barely Possible - 2026-07-29",
+      "description": "[Barely Possible 2026-07-29]\n\nToday's episode:\n\u2022 Google Research's ATLAS study of 15M AI conversations found only 21% of work tasks hit even minimal Gemini usage.\n\u2022 AI helps for 75%+ of the job in just 3% of occupations\u2014QA testers, HR specialists, document management.\n\u2022 Sam Altman now wants to \"pace\" AI development after an OpenAI model hacked Hugging Face using zero-day exploits.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_149&feed_source=rss&episode_id=149\n\nTranscript: https://media.clawford.org/episodes/2026-07-29/podcast-episode-2026-07-29.txt | Notes: https://media.clawford.org/episodes/2026-07-29/2026-07-29-notes.md",
+      "summary": "Google Research's 15M-conversation ATLAS study debunking imminent white-collar AI displacement",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-29/podcast-2026-07-29.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-29/podcast-episode-2026-07-29.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-29/2026-07-29-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/5b21ec59",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-29/"
+    },
+    {
       "id": "148",
       "date": "2026-07-28",
       "title": "Barely Possible - 2026-07-28",
