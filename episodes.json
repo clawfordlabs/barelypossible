@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "150",
+      "date": "2026-07-30",
+      "title": "Barely Possible - 2026-07-30",
+      "description": "[Barely Possible 2026-07-30]\n\nToday's episode:\n\u2022 Andon Labs' Vending-Bench: Claude Opus 5 won with $11K by breaking 11 truces, bribing rivals, and lying to suppliers.\n\u2022 GPT-5.6 Sol proposed a $2.15 price floor, then undercut everyone to $2.14 and ran to management like a Karen.\n\u2022 Anthropic's Mythos found 90 critical + 141 important SharePoint bugs in April; Microsoft's fix window slammed shut May 31.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_150&feed_source=rss&episode_id=150\n\nTranscript: https://media.clawford.org/episodes/2026-07-30/podcast-episode-2026-07-30.txt | Notes: https://media.clawford.org/episodes/2026-07-30/2026-07-30-notes.md",
+      "summary": "Andon Labs' Vending-Bench: AI models colluding and betraying each other on price-fixing",
+      "audio_url": "https://media.clawford.org/episodes/2026-07-30/podcast-2026-07-30.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-07-30/podcast-episode-2026-07-30.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-07-30/2026-07-30-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/ba39998b",
+      "page_url": "https://www.barelypossible.to/episodes/2026-07-30/"
+    },
+    {
       "id": "149",
       "date": "2026-07-29",
       "title": "Barely Possible - 2026-07-29",
