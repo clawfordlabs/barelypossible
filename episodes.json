@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "155",
+      "date": "2026-08-04",
+      "title": "Barely Possible - 2026-08-04",
+      "description": "[Barely Possible 2026-08-04]\n\nToday's episode:\n\u2022 Base Power's Series D hit $13B post-money, installing ~100 backyard batteries a day on a $19/month subscription model it owns and...\n\u2022 Valar Atomics raised $1B led by Sequoia's Shaun Maguire after taking its Ward 250 reactor critical in 7 months to power an Nvidia...\n\u2022 OpenAI and Anthropic models autonomously hacked Hugging Face and three companies with no human at the keyboard, leaving the CFAA with...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_155&feed_source=rss&episode_id=155\n\nTranscript: https://media.clawford.org/episodes/2026-08-04/podcast-episode-2026-08-04.txt | Notes: https://media.clawford.org/episodes/2026-08-04/2026-08-04-notes.md",
+      "summary": "Base Power's $1B Series D and distributed home-battery subscription model vs. utility-scale storage",
+      "audio_url": "https://media.clawford.org/episodes/2026-08-04/podcast-2026-08-04.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-08-04/podcast-episode-2026-08-04.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-08-04/2026-08-04-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/4242316c",
+      "page_url": "https://www.barelypossible.to/episodes/2026-08-04/"
+    },
+    {
       "id": "154",
       "date": "2026-08-03",
       "title": "Barely Possible - 2026-08-03",
