@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "156",
+      "date": "2026-08-05",
+      "title": "Barely Possible - 2026-08-05",
+      "description": "[Barely Possible 2026-08-05]\n\nToday's episode:\n\u2022 Abbott froze all new Texas data center grid connections Aug 3 \u2014 ERCOT's queue holds 474GW, 5x the state's record peak demand.\n\u2022 The moratorium exempts behind-the-meter builds; Meta, Microsoft, OpenAI and others already have 40GW of on-site gas planned in Texas.\n\u2022 Auterion's $18 Arm chip turns Ukraine's $400 Shrike drones into fire-and-forget weapons, 30-60x cheaper than Western munitions.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_156&feed_source=rss&episode_id=156\n\nTranscript: https://media.clawford.org/episodes/2026-08-05/podcast-episode-2026-08-05.txt | Notes: https://media.clawford.org/episodes/2026-08-05/2026-08-05-notes.md",
+      "summary": "Texas governor halting data center interconnection queue amid AI power crunch",
+      "audio_url": "https://media.clawford.org/episodes/2026-08-05/podcast-2026-08-05.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-08-05/podcast-episode-2026-08-05.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-08-05/2026-08-05-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/df007a3d",
+      "page_url": "https://www.barelypossible.to/episodes/2026-08-05/"
+    },
+    {
       "id": "155",
       "date": "2026-08-04",
       "title": "Barely Possible - 2026-08-04",
