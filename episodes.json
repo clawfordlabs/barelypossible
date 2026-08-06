@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "158",
+      "date": "2026-08-07",
+      "title": "Barely Possible - 2026-08-07",
+      "description": "[Barely Possible 2026-08-07]\n\nToday's episode:\n\u2022 Stanford's genome model designed 285 \u03a6X174 phages; 16 worked, two with 50+ amino acid changes past the known 25-change death limit.\n\u2022 Their AI-designed phage cocktail broke through E. coli that had already beaten natural phages \u2014 a real shot at antibiotic resistance.\n\u2022 Cloudflare's AI code reviewer flagged ~250K standards deviations and blocked 16,000 merges over four months of internal vibe coding.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_158&feed_source=rss&episode_id=158\n\nTranscript: https://media.clawford.org/episodes/2026-08-07/podcast-episode-2026-08-07.txt | Notes: https://media.clawford.org/episodes/2026-08-07/2026-08-07-notes.md",
+      "summary": "Stanford's genome model designing 16 working \u03a6X174 bacteriophages, exceeding known mutation limits",
+      "audio_url": "https://media.clawford.org/episodes/2026-08-07/podcast-2026-08-07.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-08-07/podcast-episode-2026-08-07.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-08-07/2026-08-07-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/76395489",
+      "page_url": "https://www.barelypossible.to/episodes/2026-08-07/"
+    },
+    {
       "id": "157",
       "date": "2026-08-06",
       "title": "Barely Possible - 2026-08-06",
