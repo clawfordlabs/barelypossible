@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "160",
+      "date": "2026-08-09",
+      "title": "Barely Possible - 2026-08-09",
+      "description": "[Barely Possible 2026-08-09]\n\nToday's episode:\n\u2022 OpenAI paused its Astra model after internal review found it hit a \"critical cybersecurity threshold\" for autonomous attacks.\n\u2022 Altman on X: Astra's cyber capabilities mean \"we need a little bit longer to do this safely\" before general release.\n\u2022 TechCrunch's Kirsten Korosec flags the \"flexing\" angle \u2014 a safety confession that doubles as a frontier-capability spec sheet.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_160&feed_source=rss&episode_id=160\n\nTranscript: https://media.clawford.org/episodes/2026-08-09/podcast-episode-2026-08-09.txt | Notes: https://media.clawford.org/episodes/2026-08-09/2026-08-09-notes.md",
+      "summary": "OpenAI publicly pausing its \"Astra\" model over dangerous cyber-offensive capabilities",
+      "audio_url": "https://media.clawford.org/episodes/2026-08-09/podcast-2026-08-09.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-08-09/podcast-episode-2026-08-09.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-08-09/2026-08-09-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/0769a7c7",
+      "page_url": "https://www.barelypossible.to/episodes/2026-08-09/"
+    },
+    {
       "id": "159",
       "date": "2026-08-08",
       "title": "Barely Possible - 2026-08-08",
