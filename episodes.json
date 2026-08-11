@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "163",
+      "date": "2026-08-12",
+      "title": "Barely Possible - 2026-08-12",
+      "description": "[Barely Possible 2026-08-12]\n\nToday's episode:\n\u2022 Leonardo's SignalTrace sits beside plate readers, sniffing Bluetooth/RFID to link your devices to your car\u2014no name needed.\n\u2022 A Scientific Reports study found 4 time-and-place points uniquely identify 95% of 1.5M people.\n\u2022 General Catalyst led a $1.1B round into River AI, a company that came out of stealth in June and is two months old.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_163&feed_source=rss&episode_id=163\n\nTranscript: https://media.clawford.org/episodes/2026-08-12/podcast-episode-2026-08-12.txt | Notes: https://media.clawford.org/episodes/2026-08-12/2026-08-12-notes.md",
+      "summary": "Leonardo's SignalTrace linking phone Bluetooth/RFID signals to license plates for warrantless identity tracking",
+      "audio_url": "https://media.clawford.org/episodes/2026-08-12/podcast-2026-08-12.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-08-12/podcast-episode-2026-08-12.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-08-12/2026-08-12-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/446f778a",
+      "page_url": "https://www.barelypossible.to/episodes/2026-08-12/"
+    },
+    {
       "id": "162",
       "date": "2026-08-11",
       "title": "Barely Possible - 2026-08-11",
