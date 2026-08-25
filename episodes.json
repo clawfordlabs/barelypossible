@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "177",
+      "date": "2026-08-26",
+      "title": "Barely Possible - 2026-08-26",
+      "description": "[Barely Possible 2026-08-26]\n\nToday's episode:\n\u2022 Reese Richardson and Sholto David found manipulated validation images on 17,000+ commercial antibodies across 16 supplier companies.\n\u2022 X-Humanoid's robot won a 400m race arms-up near its face because RL sim found that shy posture fastest; one competitor caught fire.\n\u2022 Anthropic merged memory between Claude chat and Cowork so agents stop making you rebrief them on what they already know.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_177&feed_source=rss&episode_id=177\n\nTranscript: https://media.clawford.org/episodes/2026-08-26/podcast-episode-2026-08-26.txt | Notes: https://media.clawford.org/episodes/2026-08-26/2026-08-26-notes.md",
+      "summary": "Manipulated antibody validation images sold by lab supply companies exposed by Richardson and David",
+      "audio_url": "https://media.clawford.org/episodes/2026-08-26/podcast-2026-08-26.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-08-26/podcast-episode-2026-08-26.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-08-26/2026-08-26-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/de3096db",
+      "page_url": "https://www.barelypossible.to/episodes/2026-08-26/"
+    },
+    {
       "id": "176",
       "date": "2026-08-25",
       "title": "Barely Possible - 2026-08-25",
