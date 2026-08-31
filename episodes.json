@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "182",
+      "date": "2026-09-01",
+      "title": "Barely Possible - 2026-09-01",
+      "description": "[Barely Possible 2026-09-01]\n\nToday's episode:\n\u2022 FTC and 22 states sued Amazon over a \"soft reserve\" surcharge that used an invented bidder to inflate ad prices for 500K sellers.\n\u2022 Complaint says the promised second-price auction charged sellers their full bid ~80% of the time, off $68B in 2024 ad revenue.\n\u2022 Sony's suit cites an Anthropic staffer's \"Zlibrary my beloved\" chat as evidence, weeks after a $1.5B piracy judgment in Bartz.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_182&feed_source=rss&episode_id=182\n\nTranscript: https://media.clawford.org/episodes/2026-09-01/podcast-episode-2026-09-01.txt | Notes: https://media.clawford.org/episodes/2026-09-01/2026-09-01-notes.md",
+      "summary": "FTC's lawsuit alleging Amazon's secret ad auction surcharge scheme against 500K sellers",
+      "audio_url": "https://media.clawford.org/episodes/2026-09-01/podcast-2026-09-01.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-09-01/podcast-episode-2026-09-01.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-09-01/2026-09-01-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/934890ca",
+      "page_url": "https://www.barelypossible.to/episodes/2026-09-01/"
+    },
+    {
       "id": "181",
       "date": "2026-08-31",
       "title": "Barely Possible - 2026-08-31",
