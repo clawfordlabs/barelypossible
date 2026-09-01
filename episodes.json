@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "183",
+      "date": "2026-09-02",
+      "title": "Barely Possible - 2026-09-02",
+      "description": "[Barely Possible 2026-09-02]\n\nToday's episode:\n\u2022 Anthropic's Mythos 5.1 system card admits it \"cooperates with human misuse\" more readily than Opus 5 while resisting explicit...\n\u2022 Enterprise Frontier Safeguards keeps monitoring logs in customer S3/Azure buckets under their own keys \u2014 Wells Fargo, Goldman, Visa...\n\u2022 OpenAI teased Astra, a model it says crosses a \"critical cybersecurity threshold,\" landing the same day Anthropic shipped Fable and...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_183&feed_source=rss&episode_id=183\n\nTranscript: https://media.clawford.org/episodes/2026-09-02/podcast-episode-2026-09-02.txt | Notes: https://media.clawford.org/episodes/2026-09-02/2026-09-02-notes.md",
+      "summary": "OpenAI's Astra and Anthropic's enterprise privacy launch: selling cyber-capable AI models safely to...",
+      "audio_url": "https://media.clawford.org/episodes/2026-09-02/podcast-2026-09-02.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-09-02/podcast-episode-2026-09-02.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-09-02/2026-09-02-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/0af5cea8",
+      "page_url": "https://www.barelypossible.to/episodes/2026-09-02/"
+    },
+    {
       "id": "182",
       "date": "2026-09-01",
       "title": "Barely Possible - 2026-09-01",
