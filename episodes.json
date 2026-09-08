@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "190",
+      "date": "2026-09-09",
+      "title": "Barely Possible - 2026-09-09",
+      "description": "[Barely Possible 2026-09-09]\n\nToday's episode:\n\u2022 NYU's Tristan Buckmaster and Levent Alp\u00f6ge posted Navier-Stokes proofs, then say OpenAI raced them after word of their approach leaked.\n\u2022 OpenAI's unreleased model burned 300B output tokens on the proof \u2014 roughly $22.5M of compute at Astra rates \u2014 starting only Sept 1.\n\u2022 Altman says OpenAI offered Buckmaster lead authorship and the prize, but balked at crediting Alp\u00f6ge, an Anthropic employee.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_190&feed_source=rss&episode_id=190\n\nTranscript: https://media.clawford.org/episodes/2026-09-09/podcast-episode-2026-09-09.txt | Notes: https://media.clawford.org/episodes/2026-09-09/2026-09-09-notes.md",
+      "summary": "Buckmaster vs OpenAI race on Navier-Stokes Millennium Prize proof using Codex/Claude",
+      "audio_url": "https://media.clawford.org/episodes/2026-09-09/podcast-2026-09-09.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-09-09/podcast-episode-2026-09-09.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-09-09/2026-09-09-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/c4a8818b",
+      "page_url": "https://www.barelypossible.to/episodes/2026-09-09/"
+    },
+    {
       "id": "189",
       "date": "2026-09-08",
       "title": "Barely Possible - 2026-09-08",
