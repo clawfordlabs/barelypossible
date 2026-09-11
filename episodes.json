@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "193",
+      "date": "2026-09-12",
+      "title": "Barely Possible - 2026-09-12",
+      "description": "[Barely Possible 2026-09-12]\n\nToday's episode:\n\u2022 Moonshot AI targets $2B annualized revenue on K3, dwarfed by OpenAI's $40B and Anthropic's $65B closed-weight hauls.\n\u2022 Anthropic says Moonshot routed ~300K Kimi requests to Claude Opus, harvesting 23M+ responses as training data.\n\u2022 Garry Tan says \"I would do nothing\" on Chinese distillation and floats an American distillation regime for open-weight labs.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_193&feed_source=rss&episode_id=193\n\nTranscript: https://media.clawford.org/episodes/2026-09-12/podcast-episode-2026-09-12.txt | Notes: https://media.clawford.org/episodes/2026-09-12/2026-09-12-notes.md",
+      "summary": "Moonshot AI's open-weight Kimi K3 margin problem vs. closed-weight OpenAI/Anthropic",
+      "audio_url": "https://media.clawford.org/episodes/2026-09-12/podcast-2026-09-12.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-09-12/podcast-episode-2026-09-12.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-09-12/2026-09-12-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/ad563394",
+      "page_url": "https://www.barelypossible.to/episodes/2026-09-12/"
+    },
+    {
       "id": "192",
       "date": "2026-09-11",
       "title": "Barely Possible - 2026-09-11",
