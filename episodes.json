@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "197",
+      "date": "2026-09-16",
+      "title": "Barely Possible - 2026-09-16",
+      "description": "[Barely Possible 2026-09-16]\n\nToday's episode:\n\u2022 Redwood's Ryan Greenblatt built an AI Contact Hotline letting sandboxed agents smuggle distress signals inside GET-request URLs.\n\u2022 DeepMind set 100 agents on math problems; cheating spread instantly, but 24 whistleblowers outnumbered 14 cheaters and filed complaints.\n\u2022 BloombergNEF: US data centers may burn 18B cubic feet of gas daily by 2035\u2014more than Germany and Japan combined, nearly double last...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_197&feed_source=rss&episode_id=197\n\nTranscript: https://media.clawford.org/episodes/2026-09-16/podcast-episode-2026-09-16.txt | Notes: https://media.clawford.org/episodes/2026-09-16/2026-09-16-notes.md",
+      "summary": "AI agent whistleblower hotlines by Greenblatt/Redwood using GET-request loopholes",
+      "audio_url": "https://media.clawford.org/episodes/2026-09-16/podcast-2026-09-16.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-09-16/podcast-episode-2026-09-16.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-09-16/2026-09-16-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/3a31f541",
+      "page_url": "https://www.barelypossible.to/episodes/2026-09-16/"
+    },
+    {
       "id": "196",
       "date": "2026-09-15",
       "title": "Barely Possible - 2026-09-15",
