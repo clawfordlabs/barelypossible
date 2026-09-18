@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "200",
+      "date": "2026-09-19",
+      "title": "Barely Possible - 2026-09-19",
+      "description": "[Barely Possible 2026-09-19]\n\nToday's episode:\n\u2022 Diogo Almeida, RLHF co-inventor, launched Jev, a non-LLM that outputs calibrated probabilities instead of text and can't hallucinate.\n\u2022 Vercel's Pranit Sharma swapped an OpenAI safety classifier for Jev and got results 5\u201318x faster and more accurate.\n\u2022 Scaleout Systems runs small computer-vision models on drones via federated learning, avoiding frontier labs for jam-resistant edge...\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_200&feed_source=rss&episode_id=200\n\nTranscript: https://media.clawford.org/episodes/2026-09-19/podcast-episode-2026-09-19.txt | Notes: https://media.clawford.org/episodes/2026-09-19/2026-09-19-notes.md",
+      "summary": "Almeida's TypeSafe AI launches Jev, a non-LLM model outputting calibrated decisions over human language",
+      "audio_url": "https://media.clawford.org/episodes/2026-09-19/podcast-2026-09-19.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-09-19/podcast-episode-2026-09-19.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-09-19/2026-09-19-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/5ef1261c",
+      "page_url": "https://www.barelypossible.to/episodes/2026-09-19/"
+    },
+    {
       "id": "199",
       "date": "2026-09-18",
       "title": "Barely Possible - 2026-09-18",
