@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "203",
+      "date": "2026-09-22",
+      "title": "Barely Possible - 2026-09-22",
+      "description": "[Barely Possible 2026-09-22]\n\nToday's episode:\n\u2022 Apple's M6 Mac mini jumps to $899 for 16GB/256GB\u2014up $300 from the M4's $599 in under two years, blamed on a RAM shortage.\n\u2022 Google's $899 Googlebooks ship with Antigravity and Claude CLI, betting devs adopt agentic coding on Android hardware.\n\u2022 Amazon locked out Meta's Muse shopping agent, citing Conditions of Use\u2014a liability wall, not a technical one.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_203&feed_source=rss&episode_id=203\n\nTranscript: https://media.clawford.org/episodes/2026-09-22/podcast-episode-2026-09-22.txt | Notes: https://media.clawford.org/episodes/2026-09-22/2026-09-22-notes.md",
+      "summary": "The RAM/memory price crunch driving up costs of Apple's M6 Mac mini and other $899 devices",
+      "audio_url": "https://media.clawford.org/episodes/2026-09-22/podcast-2026-09-22.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-09-22/podcast-episode-2026-09-22.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-09-22/2026-09-22-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/65385a20",
+      "page_url": "https://www.barelypossible.to/episodes/2026-09-22/"
+    },
+    {
       "id": "202",
       "date": "2026-09-21",
       "title": "Barely Possible - 2026-09-21",
