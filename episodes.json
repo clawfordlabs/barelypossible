@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "212",
+      "date": "2026-10-01",
+      "title": "Barely Possible - 2026-10-01",
+      "description": "[Barely Possible 2026-10-01]\n\nToday's episode:\n\u2022 Reddit kills RSS on Nov 13 and closes public API by March 2027, forcing AI firms to pay for its 14 years of user data.\n\u2022 Reddit's non-ad revenue grew 24% to $43M/quarter on AI licensing deals alone\u2014proof proprietary data is the real moat.\n\u2022 Only 2.2% of consumers pay for AI at ~$31/month; even a Netflix-scale $11B wouldn't cover OpenAI's costs.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_212&feed_source=rss&episode_id=212\n\nTranscript: https://media.clawford.org/episodes/2026-10-01/podcast-episode-2026-10-01.txt | Notes: https://media.clawford.org/episodes/2026-10-01/2026-10-01-notes.md",
+      "summary": "Reddit shutting down RSS/API to monetize its data via AI licensing deals",
+      "audio_url": "https://media.clawford.org/episodes/2026-10-01/podcast-2026-10-01.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-10-01/podcast-episode-2026-10-01.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-10-01/2026-10-01-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/695f7116",
+      "page_url": "https://www.barelypossible.to/episodes/2026-10-01/"
+    },
+    {
       "id": "211",
       "date": "2026-09-30",
       "title": "Barely Possible - 2026-09-30",
