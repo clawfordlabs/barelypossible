@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "217",
+      "date": "2026-10-06",
+      "title": "Barely Possible - 2026-10-06",
+      "description": "[Barely Possible 2026-10-06]\n\nToday's episode:\n\u2022 Reflection AI, valued at $25B pre-money, debuts Beam: a 501B-param open-weight model with 23B active, claiming 3-4x less inference compute.\n\u2022 Etched fields chip funding offers at $40B+, roughly double its $21B September round, led partly by Jane Street as both investor and...\n\u2022 19-year-old founder raises $11M for Ghost, a $3,499 box built to run your personal AI locally.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_217&feed_source=rss&episode_id=217\n\nTranscript: https://media.clawford.org/episodes/2026-10-06/podcast-episode-2026-10-06.txt | Notes: https://media.clawford.org/episodes/2026-10-06/2026-10-06-notes.md",
+      "summary": "Reflection AI's $25B valuation and Beam open-weight model launch before shipping",
+      "audio_url": "https://media.clawford.org/episodes/2026-10-06/podcast-2026-10-06.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-10-06/podcast-episode-2026-10-06.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-10-06/2026-10-06-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/91a6e1d8",
+      "page_url": "https://www.barelypossible.to/episodes/2026-10-06/"
+    },
+    {
       "id": "216",
       "date": "2026-10-05",
       "title": "Barely Possible - 2026-10-05",
