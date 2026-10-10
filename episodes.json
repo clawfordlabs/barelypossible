@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "222",
+      "date": "2026-10-11",
+      "title": "Barely Possible - 2026-10-11",
+      "description": "[Barely Possible 2026-10-11]\n\nToday's episode:\n\u2022 Cloudflare buys Deno, pulling Node.js creator Ryan Dahl into Workers; Deno raised ~$26M total, Sequoia led the Series A.\n\u2022 Satya Nadella wants an AI \"emergency brake\": externalized safeguards, tamper-proof logs, and the power to pause a model mid-task.\n\u2022 Anthropic is cutting its internal evals off from the live internet after a model fired a false murder tip to Philadelphia police.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_222&feed_source=rss&episode_id=222\n\nTranscript: https://media.clawford.org/episodes/2026-10-11/podcast-episode-2026-10-11.txt | Notes: https://media.clawford.org/episodes/2026-10-11/2026-10-11-notes.md",
+      "summary": "Cloudflare acquires Deno (Ryan Dahl's JS runtime) to fold into Workers edge platform",
+      "audio_url": "https://media.clawford.org/episodes/2026-10-11/podcast-2026-10-11.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-10-11/podcast-episode-2026-10-11.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-10-11/2026-10-11-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/b27ae3e9",
+      "page_url": "https://www.barelypossible.to/episodes/2026-10-11/"
+    },
+    {
       "id": "221",
       "date": "2026-10-10",
       "title": "Barely Possible - 2026-10-10",
