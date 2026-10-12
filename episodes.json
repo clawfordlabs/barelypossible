@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "224",
+      "date": "2026-10-13",
+      "title": "Barely Possible - 2026-10-13",
+      "description": "[Barely Possible 2026-10-13]\n\nToday's episode:\n\u2022 Amazon runs 1M+ robots alongside 1.5M human workers; its DeepFleet AI predicts robot traffic jams before they clog aisles.\n\u2022 An ILR Review study found robotic warehouses cut severe injuries 40% but raised less-severe strains 77% as robots set the pace.\n\u2022 Internal docs reported by NYT suggest robotics could cap US hiring by 160K by 2027 and 600K by 2033 \u2014 not pink slips, a narrowing door.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_224&feed_source=rss&episode_id=224\n\nTranscript: https://media.clawford.org/episodes/2026-10-13/podcast-episode-2026-10-13.txt | Notes: https://media.clawford.org/episodes/2026-10-13/2026-10-13-notes.md",
+      "summary": "Amazon's million-robot warehouse fleet coexisting with 1.5M human workers",
+      "audio_url": "https://media.clawford.org/episodes/2026-10-13/podcast-2026-10-13.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-10-13/podcast-episode-2026-10-13.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-10-13/2026-10-13-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/534c6704",
+      "page_url": "https://www.barelypossible.to/episodes/2026-10-13/"
+    },
+    {
       "id": "223",
       "date": "2026-10-12",
       "title": "Barely Possible - 2026-10-12",
