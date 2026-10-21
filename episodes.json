@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "233",
+      "date": "2026-10-22",
+      "title": "Barely Possible - 2026-10-22",
+      "description": "[Barely Possible 2026-10-22]\n\nToday's episode:\n\u2022 Walmart's Agent Gateway is an MCP server letting approved AI agents shop and buy; Agent Profiles with spending caps land next month.\n\u2022 Meta's Muse hit 10M+ users, with a quarter of shoppers averaging $200+ purchases\u2014Plaid called the activity unprecedented.\n\u2022 Node.js shipped four high-severity bugs including remote code execution, and LiteLLM got compromised with poisoned artifacts.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_233&feed_source=rss&episode_id=233\n\nTranscript: https://media.clawford.org/episodes/2026-10-22/podcast-episode-2026-10-22.txt | Notes: https://media.clawford.org/episodes/2026-10-22/2026-10-22-notes.md",
+      "summary": "Walmart's Agent Gateway MCP server vs Amazon blocking AI shopping agents",
+      "audio_url": "https://media.clawford.org/episodes/2026-10-22/podcast-2026-10-22.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-10-22/podcast-episode-2026-10-22.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-10-22/2026-10-22-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/693cc0e4",
+      "page_url": "https://www.barelypossible.to/episodes/2026-10-22/"
+    },
+    {
       "id": "232",
       "date": "2026-10-21",
       "title": "Barely Possible - 2026-10-21",
