@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "234",
+      "date": "2026-10-23",
+      "title": "Barely Possible - 2026-10-23",
+      "description": "[Barely Possible 2026-10-23]\n\nToday's episode:\n\u2022 eMudhra quit the TLS business after shipping intermediate cert keys of 3-8 bits \u2014 one private key was literally the number 4.\n\u2022 A failed revocation-list signature warned eMudhra something was broken on April 30; nobody asked why, and the rot spread to Sectigo.\n\u2022 1Password for Agents launched the same day banks called customer agentic account activity \"horrifying\"; Chase says give no one your login.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_234&feed_source=rss&episode_id=234\n\nTranscript: https://media.clawford.org/episodes/2026-10-23/podcast-episode-2026-10-23.txt | Notes: https://media.clawford.org/episodes/2026-10-23/2026-10-23-notes.md",
+      "summary": "eMudhra's catastrophically weak TLS certificate keys (3-8 bits) forcing its exit from the CA business",
+      "audio_url": "https://media.clawford.org/episodes/2026-10-23/podcast-2026-10-23.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-10-23/podcast-episode-2026-10-23.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-10-23/2026-10-23-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/83b12ec9",
+      "page_url": "https://www.barelypossible.to/episodes/2026-10-23/"
+    },
+    {
       "id": "233",
       "date": "2026-10-22",
       "title": "Barely Possible - 2026-10-22",
