@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "236",
+      "date": "2026-10-25",
+      "title": "Barely Possible - 2026-10-25",
+      "description": "[Barely Possible 2026-10-25]\n\nToday's episode:\n\u2022 Two 2024-era PHP bugs dubbed PHP2Shell enable unauthenticated RCE across the ~70% of the web running PHP, WordPress, Drupal, and Wikipedia.\n\u2022 Amazon detected exploitation around October 17th, a week before patches shipped; Cloudflare's Matthew Prince reports exponential attack...\n\u2022 Calif found the bugs via OpenAI and Wiz's Hack the Planet, but admits no model unearths all bugs from prompts \u2014 \"at least for now.\"\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_236&feed_source=rss&episode_id=236\n\nTranscript: https://media.clawford.org/episodes/2026-10-25/podcast-episode-2026-10-25.txt | Notes: https://media.clawford.org/episodes/2026-10-25/2026-10-25-notes.md",
+      "summary": "PHP2Shell: critical RCE bugs threatening 70% of the web",
+      "audio_url": "https://media.clawford.org/episodes/2026-10-25/podcast-2026-10-25.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-10-25/podcast-episode-2026-10-25.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-10-25/2026-10-25-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/fc1d07b4",
+      "page_url": "https://www.barelypossible.to/episodes/2026-10-25/"
+    },
+    {
       "id": "235",
       "date": "2026-10-24",
       "title": "Barely Possible - 2026-10-24",
