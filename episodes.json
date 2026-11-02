@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "245",
+      "date": "2026-11-03",
+      "title": "Barely Possible - 2026-11-03",
+      "description": "[Barely Possible 2026-11-03]\n\nToday's episode:\n\u2022 42AI exits stealth with $62.5M and a \"behavioral world model\" that predicts how individual traders react before they decide.\n\u2022 Marvell buys Lumentum for $115B enterprise value\u2014both companies backed by Nvidia's $2B March investments in each.\n\u2022 Musk throttled Grok Bot limits over Halloween weekend, calling serving costs \"unsustainably high relative to revenue.\"\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_245&feed_source=rss&episode_id=245\n\nTranscript: https://media.clawford.org/episodes/2026-11-03/podcast-episode-2026-11-03.txt | Notes: https://media.clawford.org/episodes/2026-11-03/2026-11-03-notes.md",
+      "summary": "42AI's $62.5M behavioral world model predicting trader reactions before decisions",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-03/podcast-2026-11-03.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-03/podcast-episode-2026-11-03.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-03/2026-11-03-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/ed422382",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-03/"
+    },
+    {
       "id": "244",
       "date": "2026-11-02",
       "title": "Barely Possible - 2026-11-02",
