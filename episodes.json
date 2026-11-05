@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "248",
+      "date": "2026-11-06",
+      "title": "Barely Possible - 2026-11-06",
+      "description": "[Barely Possible 2026-11-06]\n\nToday's episode:\n\u2022 Max Justicz aimed ChatGPT at Ubuntu code and got a server-takeover bug in 2 hours \u2014 Debian patched it, no known exploitation.\n\u2022 OpenAI's GPT-6 Cyber found 948 Linux kernel issues for ~$1.2M, but the lab spent ~$6M chasing a fluid dynamics flex.\n\u2022 CISA/FBI warn hackers are hijacking internet-connected freezers at grocery stores, US bases, and a French blood bank.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_248&feed_source=rss&episode_id=248\n\nTranscript: https://media.clawford.org/episodes/2026-11-06/podcast-episode-2026-11-06.txt | Notes: https://media.clawford.org/episodes/2026-11-06/2026-11-06-notes.md",
+      "summary": "AI-assisted vulnerability discovery: Justicz's 2-hour Ubuntu bug find vs. slow cyberdefense",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-06/podcast-2026-11-06.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-06/podcast-episode-2026-11-06.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-06/2026-11-06-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/46ba0ed9",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-06/"
+    },
+    {
       "id": "247",
       "date": "2026-11-05",
       "title": "Barely Possible - 2026-11-05",
