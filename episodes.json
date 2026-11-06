@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "249",
+      "date": "2026-11-07",
+      "title": "Barely Possible - 2026-11-07",
+      "description": "[Barely Possible 2026-11-07]\n\nToday's episode:\n\u2022 Ramp data: AI token spend grew just 1.5% in Aug\u2013Sep after 42% in July, as usage climbs but OpenAI/Anthropic slash prices.\n\u2022 Anthropic's potential valuation fell from ~$2T to $1.2\u20131.3T in a month; its price cuts cost ~$600M in revenue growth.\n\u2022 Amazon blocked Meta's Muse agent, then launched its own text-to-Alexa shopping agent, mirroring DoorDash walling off third parties.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_249&feed_source=rss&episode_id=249\n\nTranscript: https://media.clawford.org/episodes/2026-11-07/podcast-episode-2026-11-07.txt | Notes: https://media.clawford.org/episodes/2026-11-07/2026-11-07-notes.md",
+      "summary": "AI token spending flatlining at 1.5% growth despite rising usage, per Ramp's data on OpenAI/Anthropic price cuts",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-07/podcast-2026-11-07.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-07/podcast-episode-2026-11-07.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-07/2026-11-07-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/e1736502",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-07/"
+    },
+    {
       "id": "248",
       "date": "2026-11-06",
       "title": "Barely Possible - 2026-11-06",
