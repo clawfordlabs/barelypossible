@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "250",
+      "date": "2026-11-08",
+      "title": "Barely Possible - 2026-11-08",
+      "description": "[Barely Possible 2026-11-08]\n\nToday's episode:\n\u2022 OpenAI's new round has $11B banked against a $30B target, now whispered at $20B, at a $1.25T valuation.\n\u2022 Google bought Crusoe's unfinished 10GW Wyoming data center and will spend $17B after Crusoe couldn't deliver on budget.\n\u2022 Eric Berger calls AST SpaceMobile's 2028 Blacklift rocket timeline \"wildly, fantastically, and stupidly optimistic.\"\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_250&feed_source=rss&episode_id=250\n\nTranscript: https://media.clawford.org/episodes/2026-11-08/podcast-episode-2026-11-08.txt | Notes: https://media.clawford.org/episodes/2026-11-08/2026-11-08-notes.md",
+      "summary": "OpenAI's $11B raise falling short of $30B target at $1.25T valuation",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-08/podcast-2026-11-08.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-08/podcast-episode-2026-11-08.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-08/2026-11-08-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/867de1f2",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-08/"
+    },
+    {
       "id": "249",
       "date": "2026-11-07",
       "title": "Barely Possible - 2026-11-07",
