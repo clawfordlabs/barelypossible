@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "253",
+      "date": "2026-11-11",
+      "title": "Barely Possible - 2026-11-11",
+      "description": "[Barely Possible 2026-11-11]\n\nToday's episode:\n\u2022 MIT grad David Turturean cracked the 18-year-old Aaronson-Ambainis conjecture with Anthropic's Fable 5.2, says it may be his last paper.\n\u2022 Scott Aaronson admits he doesn't fully understand the proof\u2014it was verified in Lean, not by him.\n\u2022 PSI pitches \"neolabs for science\" but pays the bills optimizing data center cooling, not winning Nobels.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_253&feed_source=rss&episode_id=253\n\nTranscript: https://media.clawford.org/episodes/2026-11-11/podcast-episode-2026-11-11.txt | Notes: https://media.clawford.org/episodes/2026-11-11/2026-11-11-notes.md",
+      "summary": "A math prodigy solving an 18-year-old conjecture with a new model, and what AI means for professional livelihoods",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-11/podcast-2026-11-11.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-11/podcast-episode-2026-11-11.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-11/2026-11-11-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/2e24756b",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-11/"
+    },
+    {
       "id": "252",
       "date": "2026-11-10",
       "title": "Barely Possible - 2026-11-10",
