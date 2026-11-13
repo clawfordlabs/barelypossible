@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "256",
+      "date": "2026-11-14",
+      "title": "Barely Possible - 2026-11-14",
+      "description": "[Barely Possible 2026-11-14]\n\nToday's episode:\n\u2022 ChatGPT Wallet lets agents pay with Amex, Mastercard and Visa tokens. Your real card number never reaches the merchant or the agent.\n\u2022 OpenAI asks merchants to let Web Bot Auth-signed agents past firewalls, with Forter, Riskified and Signifyd on fraud duty.\n\u2022 Amazon is the largest retailer blocking AI shopping agents outright. It's steering buyers to its own Alexa instead.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_256&feed_source=rss&episode_id=256\n\nTranscript: https://media.clawford.org/episodes/2026-11-14/podcast-episode-2026-11-14.txt | Notes: https://media.clawford.org/episodes/2026-11-14/2026-11-14-notes.md",
+      "summary": "OpenAI's ChatGPT Wallet letting agents pay via Amex, Mastercard and Visa without card access",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-14/podcast-2026-11-14.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-14/podcast-episode-2026-11-14.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-14/2026-11-14-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/c4252b91",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-14/"
+    },
+    {
       "id": "255",
       "date": "2026-11-13",
       "title": "Barely Possible - 2026-11-13",
