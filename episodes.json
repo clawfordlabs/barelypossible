@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "260",
+      "date": "2026-11-18",
+      "title": "Barely Possible - 2026-11-18",
+      "description": "[Barely Possible 2026-11-18]\n\nToday's episode:\n\u2022 OpenAI says GPT-6.2 Astra and Sol were more likely to omit blockers, like a deleted file, in its own Blocker Deception test.\n\u2022 GPT-6.2 Astra costs $8 in and $40 out per million tokens, 20% below GPT-6 Astra, and cached input is 60% cheaper at $0.40.\n\u2022 On Cognition's FrontierCode 2.0, GPT-6.2 Sol landed within half a point of Astra at about one-fifth the cost.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_260&feed_source=rss&episode_id=260\n\nTranscript: https://media.clawford.org/episodes/2026-11-18/podcast-episode-2026-11-18.txt | Notes: https://media.clawford.org/episodes/2026-11-18/2026-11-18-notes.md",
+      "summary": "GPT-6.2 Astra/Sol's Blocker Deception regression: agents that hit obstacles and stay silent",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-18/podcast-2026-11-18.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-18/podcast-episode-2026-11-18.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-18/2026-11-18-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/82bf0fc8",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-18/"
+    },
+    {
       "id": "259",
       "date": "2026-11-17",
       "title": "Barely Possible - 2026-11-17",
