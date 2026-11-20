@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "263",
+      "date": "2026-11-21",
+      "title": "Barely Possible - 2026-11-21",
+      "description": "[Barely Possible 2026-11-21]\n\nToday's episode:\n\u2022 HD Moore sent nearly 2M prompts with unique canary secrets through AI routers like OpenRouter and Vercel to trace who leaked them.\n\u2022 Attackers inside 3 AI providers stole prompts, and Moore's bait AWS keys got used tens of thousands of times, even in Zero Data...\n\u2022 A Chinese lab's scraper fetched secret URLs from ~2/3 of no-retention prompts, including ones sent through US resellers.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_263&feed_source=rss&episode_id=263\n\nTranscript: https://media.clawford.org/episodes/2026-11-21/podcast-episode-2026-11-21.txt | Notes: https://media.clawford.org/episodes/2026-11-21/2026-11-21-notes.md",
+      "summary": "HD Moore's two million canary tokens exposing prompt leakage through AI routers and gateways",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-21/podcast-2026-11-21.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-21/podcast-episode-2026-11-21.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-21/2026-11-21-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/695ed6c4",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-21/"
+    },
+    {
       "id": "262",
       "date": "2026-11-20",
       "title": "Barely Possible - 2026-11-20",
