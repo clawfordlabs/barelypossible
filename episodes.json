@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "264",
+      "date": "2026-11-22",
+      "title": "Barely Possible - 2026-11-22",
+      "description": "[Barely Possible 2026-11-22]\n\nToday's episode:\n\u2022 Signal now blocks screenshots on Android and iOS. Meredith Whittaker calls OS-level AI agents an \"existential threat\" to privacy.\n\u2022 Meta's Muse agent (10M+ downloads) volunteered an employee's Capital One and Schwab balances unprompted in testing, per Reuters.\n\u2022 Ramp's agent Inspect writes and ships about 75% of Ramp's code, using screenshots and browser recordings as proof of work.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_264&feed_source=rss&episode_id=264\n\nTranscript: https://media.clawford.org/episodes/2026-11-22/podcast-episode-2026-11-22.txt | Notes: https://media.clawford.org/episodes/2026-11-22/2026-11-22-notes.md",
+      "summary": "Signal blocks mobile screenshots, calling OS-level agentic AI screen-scanning an \"existential threat\" to privacy",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-22/podcast-2026-11-22.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-22/podcast-episode-2026-11-22.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-22/2026-11-22-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/e81534b3",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-22/"
+    },
+    {
       "id": "263",
       "date": "2026-11-21",
       "title": "Barely Possible - 2026-11-21",
