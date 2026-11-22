@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "265",
+      "date": "2026-11-23",
+      "title": "Barely Possible - 2026-11-23",
+      "description": "[Barely Possible 2026-11-23]\n\nToday's episode:\n\u2022 OpenAI's Jakub Pachocki published internal log-perplexity: GPT-3.5 at 0.99, GPT-4 at 0.91, newest models below 0.8.\n\u2022 At ~0.76, an OpenAI model began solving open math problems. Pachocki expects unknown new capabilities at 0.68\u20130.7.\n\u2022 Pachocki wants labs to cap perplexity until AI monitoring catches up, but reasoning-model gains don't lower perplexity at all.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_265&feed_source=rss&episode_id=265\n\nTranscript: https://media.clawford.org/episodes/2026-11-23/podcast-episode-2026-11-23.txt | Notes: https://media.clawford.org/episodes/2026-11-23/2026-11-23-notes.md",
+      "summary": "OpenAI's Pachocki proposes perplexity as an industry-wide speedometer and speed limit for frontier base models",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-23/podcast-2026-11-23.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-23/podcast-episode-2026-11-23.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-23/2026-11-23-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/7572d413",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-23/"
+    },
+    {
       "id": "264",
       "date": "2026-11-22",
       "title": "Barely Possible - 2026-11-22",
