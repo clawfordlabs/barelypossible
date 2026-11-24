@@ -1,6 +1,18 @@
 {
   "episodes": [
     {
+      "id": "267",
+      "date": "2026-11-25",
+      "title": "Barely Possible - 2026-11-25",
+      "description": "[Barely Possible 2026-11-25]\n\nToday's episode:\n\u2022 OpenAI and Cisco open-sourced Shirudo, an eBPF tool that shields live Linux services from exploits with no restart.\n\u2022 In a Java4Shell test, a Codex-written shield blocked the exploit on a running Elasticsearch process with zero downtime.\n\u2022 UK's NCSC says AI hacking tools like Artex and Cairn are breaching orgs via weak passwords and exposed APIs, not new bugs.\n\nHear the full breakdown in today's episode of Barely Possible.\n\nWant a podcast for your own topics? Join early access: https://www.barelypossible.to/waitlist/?source_path=public_episode_267&feed_source=rss&episode_id=267\n\nTranscript: https://media.clawford.org/episodes/2026-11-25/podcast-episode-2026-11-25.txt | Notes: https://media.clawford.org/episodes/2026-11-25/2026-11-25-notes.md",
+      "summary": "OpenAI-Cisco Shirudo hot-patch shield vs. UK NCSC warning that AI hackers exploit old unpatched weaknesses",
+      "audio_url": "https://media.clawford.org/episodes/2026-11-25/podcast-2026-11-25.mp3",
+      "transcript_url": "https://media.clawford.org/episodes/2026-11-25/podcast-episode-2026-11-25.txt",
+      "notes_url": "https://media.clawford.org/episodes/2026-11-25/2026-11-25-notes.md",
+      "transistor_url": "https://share.transistor.fm/s/969beedc",
+      "page_url": "https://www.barelypossible.to/episodes/2026-11-25/"
+    },
+    {
       "id": "266",
       "date": "2026-11-24",
       "title": "Barely Possible - 2026-11-24",
